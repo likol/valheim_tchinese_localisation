@@ -214,10 +214,10 @@ inventory_recipes,Recipes,配方
 inventory_craftbutton,Craft,製作
 inventory_upgradebutton,Upgrade,升級
 inventory_full,Inventory full,背包已滿
-inventory_stationlevel,Station level (Raise by building improvements),工藝台等級（建造改良設施來升級）
+inventory_stationlevel,Station level (Raise by building improvements),工作台等級（建造改良設施來升級）
 OLD inventory_stationlevel,Station level,
 OLD inventory_stationlevelreq,Required improvements,
-inventory_stationlevelreq,Required station level,需求工藝台等級
+inventory_stationlevelreq,Required station level,需求工作台等級
 inventory_maxquality,Max quality,最高品質
 inventory_style,Style,風格
 inventory_skills,Skills,技能
@@ -265,7 +265,7 @@ store_sell,Sell,售賣
 msg_worldsaved,World saved,世界已存檔
 msg_missingrequirement,Missing requirement,缺少必要條件
 msg_wrongtool,Wrong tool,錯誤的工具
-msg_missingstation,Missing required crafting station,缺少要求的工藝台
+msg_missingstation,Missing required crafting station,缺少要求的工作台
 msg_nobuildzone,A mystical force in this area stops you,這片區域的神秘力量阻止了你
 msg_privatezone,The ward stops you,守護石阻止了你
 msg_noteleportarea,Can only be built inside a stone circle,只能在虛線圈內建造。 
@@ -294,8 +294,8 @@ msg_cantdrop,You can't drop that,你無法丟棄該物品
 msg_dropped,Dropped,已丟棄
 msg_cantuseon,You can't use $1 on $2,你無法在$2上使用$1
 msg_useonwhat,Use $1 on what?,把$1用在哪里？
-msg_stationneedroof,Crafting station needs a roof,工藝台需要屋頂
-msg_stationtooexposed,Station is too exposed,工藝台過於暴露
+msg_stationneedroof,Crafting station needs a roof,工作台需要屋頂
+msg_stationtooexposed,Station is too exposed,工作台過於暴露
 msg_bedneedroof,Bed needs a roof,床鋪需要屋頂
 msg_bedtooexposed,Bed is too exposed,床鋪過於暴露
 msg_bednofire,Bed needs a nearby fire,床鋪需要靠近營火
@@ -321,8 +321,8 @@ msg_donthaveany,You don't have any,你沒有:
 msg_newtrophy,Trophy collected,已收集戰利品
 msg_newitem,New item,新物品
 msg_newmaterial,New material,新材料
-msg_newstation,New crafting station,新工藝台
-msg_newstation_level,New station level,新工藝台等級
+msg_newstation,New crafting station,新工作台
+msg_newstation_level,New station level,新工作台等級
 msg_level,level,等級
 msg_newpiece,New build piece,新的建造物品
 msg_newrecipe,New crafting recipe,新製作配方
@@ -432,7 +432,7 @@ piece_plant_nospace,Needs more room to grow,需要更多的空間才能成長
 piece_plant_wrongbiome,Can't grow in this environment,無法在這個環境中成長
 piece_plant_notcultivated,Needs cultivated ground,需要被開墾過的土地
 piece_upgrade,improvement,改善
-piece_craftingstation,Crafting station,工藝台
+piece_craftingstation,Crafting station,工作台
 piece_fermenter,Fermenter,發酵桶
 piece_fermenter_ready,Done,完成
 piece_fermenter_tap,Tap,接
@@ -477,7 +477,7 @@ piece_repair,Repair,修復
 piece_stonecutter,Stonecutter,切石機
 piece_table,Table,桌子
 piece_sconce,Sconce,壁燈
-piece_workbench,Workbench,工藝台
+piece_workbench,Workbench,工作台
 piece_workbench_ext1,Chopping block,劈柴墩
 piece_workbench_ext2,Tanning rack,皮革架
 piece_workbench_ext3,Adze,扁斧
@@ -576,7 +576,7 @@ piece_deposit_silver,Silver deposit,銀礦源
 item_quality,Quality,品質
 item_dlc,DLC item,DLC物品
 item_durability,Durability,耐久度
-item_repairlevel,Repair station level,修復物品所需工藝台等級
+item_repairlevel,Repair station level,修復物品所需工作台等級
 item_weight,Weight,重量
 item_value,Value,價值
 item_knockback,Knockback,擊退
@@ -1409,7 +1409,7 @@ tutorial_food_topic,A tasty morsel!,美味佳餚！
 tutorial_food_text,"You have found a snack, consume it to improve your health and stamina.\\r\\n\\r\\nBe aware that before long you will grow hungry again, so try to always have at least a couple of different meals ready.",你發現了一種小吃，吃掉它會強化你的生命值和耐力值。 \\r\\n\\r\\n需要注意的是，你會定期感到饑餓，所以最好隨身攜帶幾種不同的食物哦。 
 tutorial_hammer_label,Hugin: Hammer,福金：工具錘
 tutorial_hammer_topic,You have crafted a Hammer,你製作了一把工具錘
-tutorial_hammer_text,"With this tool you will raise mighty halls and towering fortifications.\\r\\n\\r\\nStart by building a <color=yellow>Workbench</color>, this in turn will enable you to construct other things.",你可以用這把工具錘建造雄偉的大殿和堅固的堡壘。 \\r\\n\\r\\n不過首先你需要製作一個<color=yellow>工藝台</color>，這樣你才可以開始建造其他設施。 \\r\\n
+tutorial_hammer_text,"With this tool you will raise mighty halls and towering fortifications.\\r\\n\\r\\nStart by building a <color=yellow>Workbench</color>, this in turn will enable you to construct other things.",你可以用這把工具錘建造雄偉的大殿和堅固的堡壘。 \\r\\n\\r\\n不過首先你需要製作一個<color=yellow>工作台</color>，這樣你才可以開始建造其他設施。 \\r\\n
 tutorial_hoe_label,Hugin: Hoe,福金：鋤頭
 tutorial_hoe_topic,You have crafted a Hoe,你製作了一把鋤頭
 tutorial_hoe_text,"This tool is used for landscaping, you could say it is the perfect complement to the Hammer.\\r\\n\\r\\nUse it to clear the ground and manipulate the terrain. It is easier to create buildings on level ground!",這個工具可以用來改善地面環境，可以說是工具錘的最佳伴侶。 \\r\\n\\r\\n它可以用作清理地面，和管理地貌。 在平坦的地面環境上建造房屋會更加容易。 
@@ -1553,9 +1553,9 @@ menu_server_warning,Warning,警告
 menu_server_info,Beware that joining any online server will put your game character at risk. It might be a good idea to create a separate character when playing online to reduce the risk of losing precious possessions. Also be aware that there is always a risk of encountering cheaters and griefers when playing online. Good luck!,加入線上伺服器時請謹慎，因為這有可能會讓你的角色遇到很大的風險。 加入線上伺服器最好是創建一個單獨的角色，這樣可以避免丟失昂貴的物品。 還需要注意的是，加入線上伺服器還有可能會遇到作弊的人和喜歡騷擾別人的人。 祝你好運！
 ,,
 ,,
-loadscreen_tip01,"Don't forget to upgrade your crafting stations, weapons and armor.",別忘了對你的工藝台，武器和護甲升級
+loadscreen_tip01,"Don't forget to upgrade your crafting stations, weapons and armor.",別忘了對你的工作台，武器和護甲升級
 loadscreen_tip02,Eating food increases your health and stamina pools. Try to balance your three food slots accordingly.,進食會增加你的生命值和耐力值。 盡量嘗試攝入不同的食物，營養均衡。 
-loadscreen_tip03,Upgraded stations enable various crafting options and lets you improve your equipment.,升級工藝台可以給你更多的製作選項並讓你可以升級你的裝備。 
+loadscreen_tip03,Upgraded stations enable various crafting options and lets you improve your equipment.,升級工作台可以給你更多的製作選項並讓你可以升級你的裝備。 
 loadscreen_tip04,"There are four principal crafting types: woodworking, masonry, smithing, and cooking.",你有四種手工技能：木工，石工，鍛造和烹飪。 
 loadscreen_tip05,"Enemies won't spawn near player built structures (e.g., crafting tables, camp fires, etc.)",敵人不會在玩家的修建的建築物附近有重生點（如：工作站，營火等等）
 loadscreen_tip06,Sitting is the safest way to travel while on a boat.,航海時最安全的姿勢便是坐著。 
