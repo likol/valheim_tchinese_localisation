@@ -66,7 +66,7 @@ feedback_feedback,Feedback,Respons,Commentaire,Feedback,Feedback,Comentarios,О�
 feedback_idea,Idea,Idé,Idée,Idea,Idee,Ideas,Идея,,,,Idea,,Hugmynd,Fikir,,Nápad,Ötlet,Nápad,Pomysł,Idee,Ideia,Ideia,想法,アイデア,아이디어
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
-error_incompatibleversion,Incompatible version,Ej kompatibel version,Version incompatible,Versione incompatibile,Inkompatible Version,Versión incompatible,Несовместимая версия,Versiune incompatibila,Грешна версия,Погрешна верзија,Peliversio ei ole yhteensopiva.,ikke en understøddede version,Ósamrýmanleg útgáfa,Desteklenmeyen sürüm,Nesuderinama versija,Nekompatibilní verze,Inkompatibilis verzió,Nekompatibilná verzia,Niekompatybilna wersja,Niet-compatibele versie,Versão incompatível,Versão incompatível,版本不兼容,バージョンが異なります,호환되지 않는 버전
+error_incompatibleversion,Incompatible version,Ej kompatibel version,Version incompatible,Versione incompatibile,Inkompatible Version,Versión incompatible,Несовместимая версия,Versiune incompatibila,Грешна версия,Погрешна верзија,Peliversio ei ole yhteensopiva.,ikke en understøddede version,Ósamrýmanleg útgáfa,Desteklenmeyen sürüm,Nesuderinama versija,Nekompatibilní verze,Inkompatibilis verzió,Nekompatibilná verzia,Niekompatybilna wersja,Niet-compatibele versie,Versão incompatível,Versão incompatível,不相容的版本,バージョンが異なります,호환되지 않는 버전
 error_failedconnect,Failed to connect,Anslutning misslyckades,Connexion impossible,Connessione fallita,Verbindung nicht möglich,Error de conexión,Не удалось подключиться,Nu s-a putut conecta,Неуспех при свързването,Неуспешно поврзување,Yhteyden muodostaminen ei onnistunut.,Kunne ikke forbinde til servern,Tenging við netþjón mistókst,Bağlantı hatası,Nepavyko prisijungti,Nepodařilo se připojit do hry,Nem sikerült kapcsolódni,Nepodarilo sa pripojiť,Nie udało się połączyć,Verbinding mislukt,Não é possível ligar,Falha ao conectar,連接失敗,接続に失敗しました,연결 실패
 error_disconnected,Disconnected,Frånkopplad,Déconnecté,Disconnesso,Verbindung unterbrochen,Desconexión,Отключен,Deconectare,Прекъсна връзката,Исклучен,Yhteys katkesi.,Afslut forbindelsen,Tenging við netþjón rofnaði,Bağlantı yok,Atjungta,Spojení ukončeno,Szétkapcsolódva,Odpojený,Rozłączono,Verbinding verbroken,Desligado,Desconectado,連接中斷,通信切斷,연결 끊어짐
 error_password,Wrong password,Fel lösenord,Mot de passe erroné,Password errata,Falsches Passwort,Contraseña incorrecta,Неверный пароль,Parola gresita,Грешна парола,Погрешна лозинка,Väärä salasana.,Forkert kodeord,Rangt lykilorð,Yanlış şifre,Neteisingas slaptažodis,Nesprávné heslo,Hibás jelszó,Nesprávne heslo,Błędne hasło,Onjuist wachtwoord,Password errada,Senha incorreta,密碼錯誤,パスワードが違います,비밀번호 오류
@@ -467,9 +467,9 @@ piece_beehive,Beehive,Bikupa,Ruche,Alveare,Bienenstock,Colmena,Улей,,,,Mehil
 piece_cauldron,Cauldron,Kittel,Chaudron,Calderone,Kessel,Caldero,Котел,,,,Pata,,,Kazan,,Kotel,Üst,Kotlík,Kociołek,Ketel,,Caldeirão,鑄鐵鍋,大鍋,가마솥
 piece_stool,Stool,Pall,Tabouret,Sgabello,Hocker,Taburete,Табурет,,,,Jakkara,,Stóll,Tabure,,Stolička,Zsámoly,Stolička,Stołek,Kruk,,Banqueta,木凳,腰掛け,스툴
 piece_throne01,Raven throne,Korptron,Trône corvidé,Trono del corvo,Rabenthron,Trono de cuervo,Вороний трон,,,,Korppi Valtaistuin,,,Kuzgun taht,,Havraní trůn,Hollótrón,Havraní trón,Kruczy Tron,Raventroon,,Trono de corvo,烏鴉王座,鴉の王座,까마귀 왕좌
-piece_chest,Reinforced chest,Beslagen kista,Coffre renforcé,Scrigno rinforzato,Verstärkte Kiste,Cofre acorazado,Армированный сундук,,,,Vahvistettu laatikko,,,Takviyeli sandık,,Vystužená truhla,Megerősített láda,Vystužená truhla,Wzmocniona skrzynia,Versterkte kist,,Baú reforçado,加強型寶箱,補強されたチェスト,강화된 상자
-piece_chestprivate,Personal chest,Personlig kista,Coffre personnel,Scrigno personale,Persönliche Kiste,Cofre personal,Личный сундук,,,,Henkilökohtainen laatikko,,,Kişisel sandık,,Osobní truhla,Személyes láda,Osobná truhla,Osobista skrzynia,Persoonlijke kist,,Baú pessoal,個人寶箱,個人用チェスト,개인 상자
-piece_chestwood,Chest,Kista,Coffre,Scrigno,Kiste,Cofre,Сундук,,,,Laatikko,,Kista,Sandık,,Truhla,Láda,Truhla,Skrzynia,Kist,,Baú,木製寶箱,チェスト,상자
+piece_chest,Reinforced chest,Beslagen kista,Coffre renforcé,Scrigno rinforzato,Verstärkte Kiste,Cofre acorazado,Армированный сундук,,,,Vahvistettu laatikko,,,Takviyeli sandık,,Vystužená truhla,Megerősített láda,Vystužená truhla,Wzmocniona skrzynia,Versterkte kist,,Baú reforçado,改良式儲藏箱,補強されたチェスト,강화된 상자
+piece_chestprivate,Personal chest,Personlig kista,Coffre personnel,Scrigno personale,Persönliche Kiste,Cofre personal,Личный сундук,,,,Henkilökohtainen laatikko,,,Kişisel sandık,,Osobní truhla,Személyes láda,Osobná truhla,Osobista skrzynia,Persoonlijke kist,,Baú pessoal,個人儲藏箱,個人用チェスト,개인 상자
+piece_chestwood,Chest,Kista,Coffre,Scrigno,Kiste,Cofre,Сундук,,,,Laatikko,,Kista,Sandık,,Truhla,Láda,Truhla,Skrzynia,Kist,,Baú,儲藏箱,チェスト,상자
 piece_cookingstation,Cooking station,Matlagningsstation,Cuisine,Cucina,Kochstelle,Estación de cocina,Стойка для готовки,,,,Ruoanlaitto asema,,Matreiðslustöð,Pişirme istasyonu,,Rožeň,Főzőállomás,Kuchynské pracovisko,Ruszt do pieczenia,Kookstation,,Bancada de cozinha,烹飪台,調理設備,조리대
 piece_groundtorch,Standing iron torch,Stående järnfackla,Torche en fer,Torcia di ferro,Stand-Eisenfackel,Antorcha de hierro de pie,Стоячий железный факел,,,,Seisova rauta soihtu,,,Sabit demir meşale,,Stojící želežná louč,Álló vasfáklya,Stojaca železná fakľa,Stojąca żelazna pochodnia,Staande ijzeren toorts,,Tocha de ferro em pé,鐵鑄火炬,自立型鉄製松明,자립형 철제 횃불
 piece_groundtorchgreen,Standing green-burning iron torch,Stående gröneldig järnfackla,Torche en fer à flamme verte,Torcia di ferro a fiamma verde,Stand-Eisenfackel (grün),Antorcha de hierro esmeralda de pie,Стоячий железный факел с зеленым огнем,,,,Seisova vihreä rauta soihtu,,,Yeşil renkte yanan sabit demir meşale,,Stojící želežná louč se zeleným ohněm,Álló zölden égő vasfáklya,Stojaca železná fakľa so zeleným plameňom,Stojąca żelazna pochodnia o zielonym płomieniu,Staande ijzeren toorts (groene vlam),,Tocha de ferro verde em pé,鐵鑄綠光火炬,自立型緑炎鉄製松明,녹염의 자립형 철제 횃불
@@ -607,13 +607,13 @@ item_twohanded,Two-handed,Tvåhandat,Deux mains,Due mani,Zweihändig,Dos manos,�
 item_trophy_eikthyr,Eikthyr trophy,Eikthyrnir avkapade huvud,Trophée d'Eikthyr,Trofeo di Eikthyr,Eikthyr-Trophäe,Trofeo de Eikthyr,Трофей: Эйктюр,,,,Eikthyrin Pokaali,,Eikþyrnis veiðibikar,Eikthyr avı ganimeti,,Trofej Eikthyra,Eikthyr trófea,Trofej Eikthyra,Trofeum Eikthyra,Eikthyrtrofee,,Troféu Eikthyr,赤血靈鹿戰利品,エイクスュルのトロフィー,아이크티르의 트로피
 item_trophy_eikthyr_description,"This severed head oozes power.
 
-Offer it to the Sacrificial Stones.","Det avkapade huvudet osar med kraft. 
+Offer it to the Sacrificial Stones.","Det avkapade huvudet osar med kraft.
 
 Häng upp det på en sten i cirkeln
 
 ","Cette tête coupée regorge de puissance.
 
-Offrez-la aux Pierres sacrificielles.","Questa testa mozzata trasuda potere.  
+Offrez-la aux Pierres sacrificielles.","Questa testa mozzata trasuda potere.
 
 Offrila alle Pietre Sacrificali.","Dieser abgetrennte Kopf verströmt eine große Macht.
 
@@ -640,9 +640,9 @@ Złóż w ofierze Kamieniom Ofiarnym.","Dit afgehakte hoofd straalt kracht uit.
 
 Bied het aan als offer bij de Offerstenen.",,"Esta cabeça decepada exala poder.
 
-Ofereça às pedras de sacrifício.",你似乎能感到這頭顱里無形的力量。 
+Ofereça às pedras de sacrifício.",你似乎能感到這頭顱里無形的力量。
 
-向祭壇獻祭。 ,"切り落とされたこの首はパワーを発している。 
+向祭壇獻祭。 ,"切り落とされたこの首はパワーを発している。
 
 犠牲の石に捧げよう。 ","잘려진 머리가 힘을 발산하고 있습니다.
 
@@ -651,13 +651,13 @@ item_trophy_eikthyr_lore,"Once the king of the forest, the size of the antlers a
 item_trophy_elder,The Elder trophy,,Trophée de l’Aîné,Trofeo dell'anziano,Der-Uralte-Trophäe,Trofeo del Sabio,Трофей: Древний,,,,Vanhimman Pokaali,,Öldungs veiðibikar,Atabey avı ganimeti,,Trofej Prastarého,Az ősi trófea,Trofej Prastarého,Trofeum Starca,De Oudere-trofee,Troféu Ancião,Troféu Ancião,古樹長老戰利品,長老のトロフィー,엘더의 트로피
 item_trophy_elder_description,"This severed head oozes power.
 
-Offer it to the Sacrificial Stones.","Det avkapade huvudet osar med kraft. 
+Offer it to the Sacrificial Stones.","Det avkapade huvudet osar med kraft.
 
 Häng upp det på en sten i cirkeln
 
 ","Cette tête coupée regorge de puissance.
 
-Offrez-la aux Pierres sacrificielles.","Questa testa mozzata trasuda potere.  
+Offrez-la aux Pierres sacrificielles.","Questa testa mozzata trasuda potere.
 
 Offrila alle Pietre Sacrificali.","Dieser abgetrennte Kopf verströmt eine große Macht.
 
@@ -683,10 +683,10 @@ Złóż w ofierze Kamieniom Ofiarnym.","Dit afgehakte hoofd straalt kracht uit.
 
 Bied het aan als offer bij de Offerstenen.",,"Esta cabeça decepada exala poder.
 
-Ofereça às pedras de sacrifício.",這乾扁的頭顱上的死去的皮感覺非常沈重。 
+Ofereça às pedras de sacrifício.",這乾扁的頭顱上的死去的皮感覺非常沈重。
 
 
-向祭壇獻祭。 ,"切り落とされたこの首はパワーを発している。 
+向祭壇獻祭。 ,"切り落とされたこの首はパワーを発している。
 
 犠牲の石に捧げよう。 ","잘려진 머리가 힘을 발산하고 있습니다.
 
@@ -713,7 +713,7 @@ Tarjoa se Uhrauskiville.",,,"Görünmeyen bir güç tarafından bir arada tutula
 Onu Kurban Taşları'na adak olarak sun.",,"Kosti a viskózní maglajz držené pohromadě nějakou neviditelnou silou.
 
 Nábídni ji obětním kamenům. ","Csontok és viszkózus ragacs, amelyeket egy láthatatlan erő tart össze.
- 
+
 Felajánlhatod az áldozati köveknek.","Kosti a hustá, lepkavá hmota, držaná pohromade neviditeľnou silou.
 
 Prines tento dar k Obetným kameňom.","Kości i lepka maź spojone przez niewidzialną siłę.
@@ -722,9 +722,9 @@ Złóż w ofierze Kamieniom Ofiarnym.","Beenderen en kleverige drab die bijeen w
 
 Bied het aan als offer bij de Offerstenen.",,"Ossos e gosma viscosa, unidos por uma força invisível.
 
-Ofereça às pedras de sacrifício.",骨頭和黏糊糊的不明物，被一股無形的力量綁在了一起。 
+Ofereça às pedras de sacrifício.",骨頭和黏糊糊的不明物，被一股無形的力量綁在了一起。
 
-向祭壇獻祭。 ,"骨と粘液が、目に見えぬ力によって一つにされている。 
+向祭壇獻祭。 ,"骨と粘液が、目に見えぬ力によって一つにされている。
 
 犠牲の石に捧げよう。 ","뼈와 점성액이 보이지 않는 힘에 의해 뭉쳐져 있습니다.
 
@@ -751,7 +751,7 @@ Tarjoa se Uhrauskiville.",,,"Ölümden sonra bile haşmetini koruyan bir ejderha
 Onu Kurban Taşları'na adak olarak sun.",,"Hlava draka, majestátní i po smrti.
 
 Nábídni ji obětním kamenům.","Egy sárkány feje, amely még a halál szigorában is fenséges látványt nyújt.
- 
+
 Felajánlhatod az áldozati köveknek.","Hlava draka, majestátna aj napriek posmrtnej stuhnutosti.
 
 Prines tento dar k Obetným kameňom.","Głowa smoka, majestatyczna nawet po śmierci.
@@ -760,9 +760,9 @@ Złóż w ofierze Kamieniom Ofiarnym.","Een drakenkop die zelf in de dood nog ie
 
 Bied het aan als offer bij de Offerstenen.",,"Uma cabeça de dragão, majestosa mesmo nos rigores da morte.
 
-Ofereça às pedras de sacrifício.",一條龍的頭，即使它已經死去，但還是威嚴聳立。 
+Ofereça às pedras de sacrifício.",一條龍的頭，即使它已經死去，但還是威嚴聳立。
 
-向祭壇獻祭。 ,"ドラゴンの頭。 死の苦しみにあっても壯大である。 
+向祭壇獻祭。 ,"ドラゴンの頭。 死の苦しみにあっても壯大である。
 
 犠牲の石に捧げよう。 ",죽음의 고초에도 위엄을 간직하고 있는 용의 머리입니다.
 item_trophy_dragonqueen_lore,"Scored with ancient scars, this head was the last sight of countless warriors.",,"Couturée d'anciennes cicatrices, cette tête a été la dernière vision de bien des guerriers.","Segnata da cicatrici antiche, questa testa fu l'ultima cosa che videro innumerevoli guerrieri. ","Voller uralter Narben, war dieser Kopf das Letzte, was zahlreiche Krieger zu Gesicht bekamen.","Esta cabeza, que está llena de cicatrices ancestrales, fue lo último que vio un sinfín de guerreros.","Эта голова, покрытая старыми шрамами, была последним, что увидели многие воины.",,,,"Monen iänikuisen arven värittämä, tämä pää oli viimeinen näky lukemattomalle määrälle sotureita.",,,"Kadim yara izleriyle kaplı bu baş, sayısız savaşçının gördüğü son şey oldu.",,Tato hlava se starými jizvami byla posledním pohledem nespočtem válečníků.,"Ősi hegek tarkítják ezt a fejet, amelynek a látványa számtalan harcos utolsó pillanatát jelentette.","Táto hlava, poznačená starými jazvami bola to posledné čo videlo nespočet bojovníkov.","Ta głowa, naznaczona bardzo starymi bliznami, była synonimem śmierci dla niezliczonych wojowników.",Bedekt met oeroude littekens was dit hoofd het laatste wat talloze krijgers vlak voor hun dood zagen.,,"Cheia de cicatrizes, esta cabeça foi a última visão de incontáveis guerreiros.",數不盡的古老傷疤，訴說著千千萬萬個戰士的故事。 ,數々の古傷に彩られたこの頭は、無數の戦士たちが最後に見たものとなった。 ,"오래된 상처들로 채색된 이 머리는, 수 많은 전사들이 마지막으로 본 광경이었습니다."
@@ -841,9 +841,9 @@ item_trophy_goblinbrute,Fuling berserker trophy,,Trophée de berserker Fuling,Tr
 item_trophy_goblinbrute_description,The huge grizzled head is as heavy as a boulder.,,Cette énorme tête grisonnante est aussi lourde qu'un gros rocher.,Questa enorme testa brizzolata è grande quanto un masso.,Dieser große grauhaarige Kopf ist schwer wie ein Felsen.,Una cabeza canosa que pesa tanto como un peñasco.,"Огромная седая голова, тяжелая, как валун.",,,,"Sen suuri, arpinen pää vetää painollaan vertaa kivenlohkareelle.",,,"Bu koca boz kafa, bir kaya kadar ağır.",,Obrovská prošedivělá hlava je těžká jako balvan. ,"A hatalmas, ezüstös fej olyan nehéz, mint egy szikla.",,"Ta ogromna, siwa głowa jest ciężka niczym głaz.","Het enorme, gepokte gezicht is zo zwaar als een rots.",,A enorme cabeça grisalha é pesada como um pedregulho,巨大斑駁的頭顱和一塊巨石一樣重。 ,灰色の大きな頭は、巖のように重い。 ,잿빛의 거대한 머리는 암석처럼 무겁습니다.
 item_trophy_goblinbrute_lore,The huge grizzled head is as heavy as a boulder.,,Cette énorme tête grisonnante est aussi lourde qu'un gros rocher.,Questa enorme testa brizzolata è grande quanto un masso.,Dieser große grauhaarige Kopf ist schwer wie ein Felsen.,Una cabeza canosa que pesa tanto como un peñasco.,"Огромная седая голова, тяжелая, как валун.",,,,"Sen suuri, arpinen pää vetää painollaan vertaa kivenlohkareelle.",,,"Bu koca boz kafa, bir kaya kadar ağır.",,Obrovská prošedivělá hlava je těžká jako balvan. ,"A hatalmas, ezüstös fej olyan nehéz, mint egy szikla.",,"Ta ogromna, siwa głowa jest ciężka niczym głaz.","Het enorme, gepokte gezicht is zo zwaar als een rots.",,A enorme cabeça grisalha é pesada como um pedregulho,巨大斑駁的頭顱和一塊巨石一樣重。 ,灰色の大きな頭は、巖のように重い。 ,잿빛의 거대한 머리는 암석처럼 무겁습니다.
 item_trophy_surtling,Surtling trophy,,Trophée de Surtling,Trofeo del surtling,Surtling-Trophäe,Trofeo de surtling,Трофей: суртлинг,,,,,,,Alaz avı ganimeti,,Trofej Surtlinga,Surtfatty trófea,,Trofeum surtlinga,Surtlingtrofee,Troféu Surtling,Troféu de Surtling,焰靈戰利品,スルトリングのトロフィー,수르트링의 트로피
-item_trophy_surtling_description,"Wreathed in pale flame, it still smolders like an ember.",Omgiven av en blek flamma pyr den fortfarande som ett glödande kol.,"Couronné de flammes pâles, il continue de brûler comme une braise.","Avvolto in una fiamma pallida, continua a bruciare come un tizzone ardente.",Umspielt von einer bleichen Flamme glimmt es noch immer wie ein Stück Glut.,"Aún arde como una brasa, envuelto en una llama pálida.","Охваченный белым пламенем, суртлинг тлеет, словно уголек.",,,"Слаб е огнот, но уште има жар.","Kalpean tulen syleilemänä, se kytee vieläkin hiilloksen lailla.",,"Í ljósum logum, það snarkar eins og góður viður.","Solgun alevlerin çelenk gibi sardığı bu av ganimeti, bir köz gibi hâlâ için için yanıyor.",,"Zahalený bledým plamenem stále doutná jako žhavé uhlíky. 
+item_trophy_surtling_description,"Wreathed in pale flame, it still smolders like an ember.",Omgiven av en blek flamma pyr den fortfarande som ett glödande kol.,"Couronné de flammes pâles, il continue de brûler comme une braise.","Avvolto in una fiamma pallida, continua a bruciare come un tizzone ardente.",Umspielt von einer bleichen Flamme glimmt es noch immer wie ein Stück Glut.,"Aún arde como una brasa, envuelto en una llama pálida.","Охваченный белым пламенем, суртлинг тлеет, словно уголек.",,,"Слаб е огнот, но уште има жар.","Kalpean tulen syleilemänä, se kytee vieläkin hiilloksen lailla.",,"Í ljósum logum, það snarkar eins og góður viður.","Solgun alevlerin çelenk gibi sardığı bu av ganimeti, bir köz gibi hâlâ için için yanıyor.",,"Zahalený bledým plamenem stále doutná jako žhavé uhlíky.
 ","Halovány láng öleli körbe, de még mindig parázsként izzik.",,"Otoczony bladym płomieniem, wciąż tli się niczym rozżarzony węgielek.",Omgeven door een vale vlam die nog steeds smeult.,"Envolto em chama pálida, ainda fumega como uma brasa.","Envolto em chamas pálidas, ele ainda arde como brasa.",環繞在淡淡的火焰之中，像未盡的余火還在陰燃。 ,淡い炎に包まれ、今でも燠のように燻っている。 ,창백한 불길에 감싸여 여전히 잿불처럼 연기가 피어오릅니다.
-item_trophy_surtling_lore,"Wreathed in pale flame, it still smolders like an ember.",Omgiven av en blek flamma pyr den fortfarande som ett glödande kol.,"Couronné de flammes pâles, il continue de brûler comme une braise.","Avvolto in una fiamma pallida, continua a bruciare come un tizzone ardente.",Umspielt von einer bleichen Flamme glimmt es noch immer wie ein Stück Glut.,"Aún arde como una brasa, envuelto en una llama pálida.","Охваченный белым пламенем, суртлинг тлеет, словно уголек.",,,"Слаб е огнот, но уште има жар.","Kalpean tulen syleilemänä, se kytee vieläkin hiilloksen lailla.",,"Í ljósum logum, það snarkar eins og góður viður.","Solgun alevlerin çelenk gibi sardığı bu av ganimeti, bir köz gibi hâlâ için için yanıyor.",,"Zahalený bledým plamenem stále doutná jako žhavé uhlíky. 
+item_trophy_surtling_lore,"Wreathed in pale flame, it still smolders like an ember.",Omgiven av en blek flamma pyr den fortfarande som ett glödande kol.,"Couronné de flammes pâles, il continue de brûler comme une braise.","Avvolto in una fiamma pallida, continua a bruciare come un tizzone ardente.",Umspielt von einer bleichen Flamme glimmt es noch immer wie ein Stück Glut.,"Aún arde como una brasa, envuelto en una llama pálida.","Охваченный белым пламенем, суртлинг тлеет, словно уголек.",,,"Слаб е огнот, но уште има жар.","Kalpean tulen syleilemänä, se kytee vieläkin hiilloksen lailla.",,"Í ljósum logum, það snarkar eins og góður viður.","Solgun alevlerin çelenk gibi sardığı bu av ganimeti, bir köz gibi hâlâ için için yanıyor.",,"Zahalený bledým plamenem stále doutná jako žhavé uhlíky.
 ","Halovány láng öleli körbe, de még mindig parázsként izzik.",,"Otoczony bladym płomieniem, wciąż tli się niczym rozżarzony węgielek.",Omgeven door een vale vlam die nog steeds smeult.,"Envolto em chama pálida, ainda fumega como uma brasa.","Envolto em chamas pálidas, ele ainda arde como brasa.",環繞在淡淡的火焰之中，像未盡的余火還在陰燃。 ,淡い炎に包まれ、今でも燠のように燻っている。 ,창백한 불길에 감싸여 여전히 잿불처럼 연기가 피어오릅니다.
 item_trophy_serpent,Serpent trophy,,Trophée de serpent,Trofeo del serpente,Seeschlangen-Trophäe,Trofeo de serpiente,Трофей: змей,,,,Merikäärmeen Pokaali,,,Yılan avı ganimeti,,Trofej Hada,Kígyótrófea,,Trofeum morskiego węża,Serpenttrofee,Troféu Serpente,Troféu de Serpente,蛟龍戰利品,蛇のトロフィー,뱀의 트로피
 item_trophy_serpent_description,The scales have dulled but the eyes are still bright.,,"Ses écailles se sont ternies, mais ses yeux sont toujours brillants.",Le squame si sono spente ma gli occhi brillano ancora.,"Auch wenn die Schuppen matter aussehen, sind die Augen noch immer von einem Leuchten erfüllt.","Las escamas han perdido su lustre, pero los ojos aún brillan.","Чешуя потускнела, но его глаза по-прежнему блестят.",,,,Sen suomut ovat tylsistyneet mutta sen silmät ovat vieläkin kirkkaat.,,,Pullar parıltısını yitirse de gözler hâlâ ışıl ışıl.,,Šupiny zmatněli ale oči jsou stále jasné.,"A pikkelyek eltompultak, de a szemek még mindig ragyognak.",,"Łuski wyblakły, lecz oczy nadal błyszczą.","De schubben zijn wat vaal geworden, maar de ogen glinsteren nog.",,"As escamas ficaram opacas, mas os olhos seguem brilhantes.",鱗片已有些許鈍，但眼睛卻依舊閃爍。 ,鱗はくすんでいるが、目はまだ輝いている。 ,비늘은 무뎌졌지만 두 눈은 아직 반짝입니다.
@@ -1538,7 +1538,7 @@ ship_holdfast,Hold fast,Greppa tag,Maintenir,,Festhalten,Agarrarse,Крепка�
 raven_interact,Talk,Prata,Parler,Parla,Sprechen,Hablar,Поговорить,,,,Puhu,,Tala,Konuş,,Mluvit,Beszélgetés,,Rozmawiaj,Praten,Falar,Conversar,對話,話す,대화하기
 tutorial_start_topic,Welcome to Valheim,,Bienvenue dans Valheim,Benvenuti a Valheim,Willkommen in Valheim,Te damos la bienvenida a Valheim,Добро пожаловать в Вальхейм,Bine ai venit in Valheim,,,,,Velkomin til Valheims,,,Vítejte ve Valhaimu,Üdvözlünk a Valheimben!,,Witaj w Valheim,,Bem-vindo a Valheim,Boas-vindas a Valheim,歡迎來到 Valheim,Valheimへようこそ,Valheim에 오신 것을 환영합니다
 tutorial_start_label,Hugin: Tip,,Hugin : conseil,Huginn: dritta,Hugin: Tipp,Hugin: Consejo.,Хугин: совет,,,,,,,,,,Hugin: Tipp,,,,Hugin: Dica,Hugin: dica,福金：提示,フギン：ヒント,후긴: 팁
-tutorial_start_text,"Start tips: try to interact with things in the environment. Some items like stones, branches and pieces of flint can be collected and used for crafting. 
+tutorial_start_text,"Start tips: try to interact with things in the environment. Some items like stones, branches and pieces of flint can be collected and used for crafting.
 
 To open your inventory and crafting screen press $KEY_Inventory.",,"Conseils : essayez d’interagir avec l’environnement. Certains matériaux, tels que des pierres, des branches et des morceaux de silex peuvent être récupérés et utilisés pour fabriquer des objets.
 
@@ -1546,27 +1546,27 @@ Pour ouvrir votre écran d’inventaire et d’artisanat, appuyez sur $KEY_Inven
 
 Per aprire il tuo inventario e la schermata di creazione, premi TAB.","Start Tipps: Versuch mit Dingen in der Welt zu interagieren. Manche Objekte, wie Steine, Äste und Feuerstein können gesammelt und fürs Crafting verwendet werden.
 
-Drücke TAB um dein Inventar zu öffnen.","Consejos: Intenta interactuar con el entorno. Podrás recoger algunos objetos como las piedras, las ramas o los fragmentos de sílex para elaborar objetos. 
+Drücke TAB um dein Inventar zu öffnen.","Consejos: Intenta interactuar con el entorno. Podrás recoger algunos objetos como las piedras, las ramas o los fragmentos de sílex para elaborar objetos.
 
-Pulsa $KEY_Inventory para abrir el inventario y la pantalla de elaboración.","Совет: с предметами вокруг можно взаимодействовать. Некоторые из них, например, камни, палки и кремень можно собрать и использовать при создании новых предметов. 
+Pulsa $KEY_Inventory para abrir el inventario y la pantalla de elaboración.","Совет: с предметами вокруг можно взаимодействовать. Некоторые из них, например, камни, палки и кремень можно собрать и использовать при создании новых предметов.
 
 Для того, чтобы открыть инвентарь, нажмите кнопку $KEY_Inventory.","Sfaturi pentru inceput: incearca sa interactionezi cu lucrurile din jurul tau. Unele iteme precum pietre, crengi sau bucati de metal pot fi adunate si folosite in constructii si obiecte.
 
 Pentru a deschide inventarul si ecranul de constructie apasa TAB.",,,,,Byrjunar ábending: Skoðaðu umhvefið vel. Sumir hlutir eins og steinar og greinar er hægt að taka upp og notað í smíði Ýtið á TAB til að fara yfir hluti sem þú átt og hvað þú getur gert við þá,,,"Tipy do začátku: Zkuste interagovat s objekty ve vašem okolí. Některé objekty jako například kameny, větve nebo kousky křemene se dají sebrat a dále použít k výrobě předmětů.
 
 Inventář a crafting menu otevřete stisknutím $KEY_Inventory.","Kezdő tippek: próbáld meg használni a környezetben található dolgokat! Néhány tárgy, mint a kövek, ágak és tűzkő darabok felvehetők, és felhasználhatók a barkácsoláshoz.
- 
+
  A leltárad és a barkácsolás képernyő megnyitásához nyomj $KEY_Inventory-t!",,"Początkowe rady: próbuj oddziaływać na rzeczy wokół swojego otoczenia. Niektóre przedmioty takie jak kamienie, gałęzie i kawałki krzemieni można podnieść i użyć do tworzenia.
 
-Aby otworzyć ekwipunek i okno tworzenia, naciśnij TAB.",,"Dicas iniciais: tenta interagir com coisas no ambiente. Certos objetos, tais como pedras, ramos e pedaços de sílex, podem ser apanhados e usados para fabricar. 
+Aby otworzyć ekwipunek i okno tworzenia, naciśnij TAB.",,"Dicas iniciais: tenta interagir com coisas no ambiente. Certos objetos, tais como pedras, ramos e pedaços de sílex, podem ser apanhados e usados para fabricar.
 
-Para abrires o teu ecrã de inventário e fabrico, prime $KEY_Inventory.","Dicas iniciais: interaja com os objetos no ambiente. Alguns itens, como pedras, galhos e fragmentos de sílex podem ser coletados e usados para produção. 
+Para abrires o teu ecrã de inventário e fabrico, prime $KEY_Inventory.","Dicas iniciais: interaja com os objetos no ambiente. Alguns itens, como pedras, galhos e fragmentos de sílex podem ser coletados e usados para produção.
 
-Para abrir o seu inventário e a tela de produção, pressione $KEY_Inventory.",開始提示：請試著與環境中的各種事物交互。 某些物品，如石頭、樹枝、燧石塊等，可以收集並用於製作。 
+Para abrir o seu inventário e a tela de produção, pressione $KEY_Inventory.",開始提示：請試著與環境中的各種事物交互。 某些物品，如石頭、樹枝、燧石塊等，可以收集並用於製作。
 
-要打開背包和製作界面，請按$KEY_Inventory。 ,"始まりのヒント：周囲にある様々なものを調べてみよう。 石や枝、火打石のかけらなどは、拾い集めればアイテムの材料として使える。 
+要打開背包和製作界面，請按$KEY_Inventory。 ,"始まりのヒント：周囲にある様々なものを調べてみよう。 石や枝、火打石のかけらなどは、拾い集めればアイテムの材料として使える。
 
-インベントリーと作成畫面を開くには $KEY_Inventory を押そう。 ","시작 팁: 환경에 있는 사물을 사용해 보세요. 돌, 나뭇가지, 부싯돌 등은 수집 후 제작에 사용할 수 있습니다. 
+インベントリーと作成畫面を開くには $KEY_Inventory を押そう。 ","시작 팁: 환경에 있는 사물을 사용해 보세요. 돌, 나뭇가지, 부싯돌 등은 수집 후 제작에 사용할 수 있습니다.
 
 소지품과 제작 화면을 열려면 $KEY_Inventory 키를 누르세요."
 tutorial_stemple1_label,Hugin: Welcome,Hugin: Välkommen,Hugin : Bienvenue,,Hugin: Willkommen,Hugin: Bienvenida,Хугин: добро пожаловать,,,,Hugin: Tervetuloa,,Huginn: Velkominn,Hugin: Karşılama,,Hugin: Vítej,,,Hugin: Powitanie,Hugin: Welkom,,Hugin: boas-vindas,福金：歡迎,フギン：歓迎,후긴: 환영한다
@@ -1593,10 +1593,10 @@ Otaczające cię megality to Kamienie Ofiarne. Reprezentują Zapomnianych, któr
 
 De megalieten die je om je heen ziet zijn de Offerstenen. Ze stellen de Verlatenen voor, die je moet verslaan om naar Walhalla te worden verheven.",,"Eu sou Hugin, e estou aqui para orientar você em suas jornadas.
 
-Os monumentos megalíticos ao seu redor são pedras de sacrifício, e representam os Guardiões que precisam ser eliminados, se você quiser alcançar o Valhalla.",我是福金，我被派來做你的嚮導。 
+Os monumentos megalíticos ao seu redor são pedras de sacrifício, e representam os Guardiões que precisam ser eliminados, se você quiser alcançar o Valhalla.",我是福金，我被派來做你的嚮導。
 
-這些包圍著你的巨石是獻祭石。 
-他們代表著被遺忘者們，你必須要按順序擊殺他們以獲得升入瓦爾哈拉的機會。 ,"私はフギン。 あなたの旅の案內をするために送り込まれた。 
+這些包圍著你的巨石是獻祭石。
+他們代表著被遺忘者們，你必須要按順序擊殺他們以獲得升入瓦爾哈拉的機會。 ,"私はフギン。 あなたの旅の案內をするために送り込まれた。
 
 まわりの巨石は犠牲の石だ。 この見捨てられしものを表している。 ヴァルハラに昇るために殺さなければならない相手だ。 ",
 tutorial_stemple2_label,Hugin: Vegvisirs,,Hugin : Vegvisirs,,Hugin: Wegweiser,Hugin: Vegvísires,Хугин: Вегвизир,,,,Hugin: Vegvisiirit,,Huginn: Vegvísir,Hugin: Vegvisirler,,Hugin: Vegvisirs,,,Hugin: Vegvisiry,Hugin: Vegvisirs,,Hugin: Vegvisirs,福金：指南石,フギン：ヴェグヴィシル,
@@ -1621,9 +1621,9 @@ Przy bliższym spojrzeniu ujawni on miejsce wezwania Eikthyra, twojej <color=yel
 
 Bij nadere inspectie zal deze de oproepplek onthullen van Eikthyr, je <color=yellow>eerste prooi</color>. Hij is een machtig beest, dus je zult je goed moeten bewapenen voor je zelfs maar poogt hem te verslaan.",,"Essas pedras mágicas foram espalhadas pela terra por Odin como uma forma de indicar os territórios ritualísticos dos Guardiões.
 
-Observe de perto para identificar o local de invocação de Eikthyr, sua <color=yellow>primeira presa</color>. Trata-se de uma fera poderosa, e você vai precisar se armar adequadamente antes de sequer tentar derrotá-lo.",奧丁把這些魔石撒落在了這篇土地上。 作為指南石指引著召喚被遺忘者們的祭壇的前路。 
+Observe de perto para identificar o local de invocação de Eikthyr, sua <color=yellow>primeira presa</color>. Trata-se de uma fera poderosa, e você vai precisar se armar adequadamente antes de sequer tentar derrotá-lo.",奧丁把這些魔石撒落在了這篇土地上。 作為指南石指引著召喚被遺忘者們的祭壇的前路。
 
-如果靠近觀察，這塊指南石會顯示召喚赤血靈鹿的位置，你的 <color=yellow>第一個任務</color>。 他是一頭無敵的神獸，在嘗試擊敗他之前你必須你必須正式裝備好你自己。 ,"これらの魔法の石は、見捨てられしものの儀式の場所を示す目印として、オーディンが各地にばらまいたものだ。 
+如果靠近觀察，這塊指南石會顯示召喚赤血靈鹿的位置，你的 <color=yellow>第一個任務</color>。 他是一頭無敵的神獸，在嘗試擊敗他之前你必須你必須正式裝備好你自己。 ,"これらの魔法の石は、見捨てられしものの儀式の場所を示す目印として、オーディンが各地にばらまいたものだ。
 
 よく見ると、これはエイクスュルを召喚する場所を表していることがわかる。 あなたの<color=yellow>最初の獲物</color>だ。 彼は強い獣だ。 倒そうと思うなら、まず正しく武裝する必要がある。 ",
 NOT USED tutorial_stemple3_label,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1673,13 +1673,13 @@ De Oudere wacht op je!",,"Você recebeu o poder de Eikthyr, use-o em momentos de
 
 Seu próximo alvo vive na Floresta Negra. Vá até lá, explore o local e encontre tesouros e recursos perdidos.
 
-O Ancião está à espera!",你獲得了赤血靈鹿的力量，請在你需要的時候使用。 
+O Ancião está à espera!",你獲得了赤血靈鹿的力量，請在你需要的時候使用。
 
-你的下一個目標會在黑暗林山里。 去那里探索並發現被遺忘的寶物和資源吧。 
+你的下一個目標會在黑暗林山里。 去那里探索並發現被遺忘的寶物和資源吧。
 
-古樹長老正在等你！,"あなたはエイクスュルの力を授けられた。 必要な時に使うといい。 
+古樹長老正在等你！,"あなたはエイクスュルの力を授けられた。 必要な時に使うといい。
 
-次の目標は黒い森にある。 そこに行き、あたりを探索し、失われた寶と資源を見つけるのだ。 
+次の目標は黒い森にある。 そこに行き、あたりを探索し、失われた寶と資源を見つけるのだ。
 
 長老が待っている！",
 tutorial_death_label,Hugin: Death,,Hugin : Mort,,Hugin: Tod,Hugin: Muerte,Хугин: смерть,,,,Hugin: Kuolema,,,Hugin: Ölüm,,Hugin: Smrt,,,Hugin: Śmierć,Hugin: Dood,,Hugin: morte,福金：死亡,フギン：死,
@@ -1709,9 +1709,9 @@ Cand mori obiectele tale sunt adunate intr-un mormant. Un craniu pe harta arata 
 Keşke evde olsaydım diyorsan da evinin olmasını istediğin yere <color=yellow"">bir yatak inşa etmeni</color> önerebilirim.",,"Pokaždé když zemřeš tak <color=yellow"">zapomeneš malou část svých dovedností a na zem spadnou tvoje předměty</color>.
 
 Pokud si teď přeješ abys byl doma tak <color=yellow"">doporučuji postavit postel</color> kdekoliv má být tvůj domov.","Meghaltál!
- 
+
 Az aktuálisan beállított feltámadási pontnál fogsz magadhoz térni. Ha még nem állítottál be egyet sem, a kezdőponton támadsz fel.
- 
+
 Amikor meghalsz, az összes holmid a halálod helyén, egy sírkőben kerül eltárolásra. Egy koponya jelzi a térképeden, ahol legutóbb meghaltál.",,"Umierasz!
 
 Zostaniesz wskrzeszony w aktualnym miejscu odradzania. Jeżeli nie posiadasz ustawionego miejsca, odrodzisz się w początkowej lokalizacji.
@@ -1720,9 +1720,9 @@ Kiedy umrzesz, twoja zdobycz zostanie umiejscowiona w nagrobku w miejscu twojej 
 
 Als je nu liever thuis was geweest, stel ik voor dat je <color=yellow"">een bed bouwt</color>, waar je thuis ook mag zijn.",,"Sempre que você cai em combate, <color=yellow"">esquece uma pequena parte de suas habilidades e deixa seus pertences</color> no local do incidente.
 
-Se o que você gostaria é de estar em casa agora, recomendo <color=yellow"">construir uma cama</color>, onde quer que seja o seu lar.","每一次你被擊倒, 你都會在你陣亡的地方<color=yellow"">丟失你的物品和忘記一小部分技能</color> 。 
+Se o que você gostaria é de estar em casa agora, recomendo <color=yellow"">construir uma cama</color>, onde quer que seja o seu lar.","每一次你被擊倒, 你都會在你陣亡的地方<color=yellow"">丟失你的物品和忘記一小部分技能</color> 。
 
-如果你希望自己現在在家醒來那我建議你<color=yellow"">造一張床</color>, 因為床在哪里，家就在哪里。 ","あなたは倒れるたびに<color=yellow"">能力のわずかな一部を忘れ、持ち物を</color>事故の起きた場所に落とす。 
+如果你希望自己現在在家醒來那我建議你<color=yellow"">造一張床</color>, 因為床在哪里，家就在哪里。 ","あなたは倒れるたびに<color=yellow"">能力のわずかな一部を忘れ、持ち物を</color>事故の起きた場所に落とす。
 
 家に戻りたいと望むなら、家となる場所に<color=yellow"">ベッドを作るのだ</color>。 ",
 tutorial_inventory_label,Hugin: Inventory,,Hugin : Inventaire,,Hugin: Inventar,Hugin: Inventario,Хугин: Инвентарь,,,,Hugin: Esineluettelo,,,Hugin: Envanter,,Hugin: Inventář,,,Hugin: Ekwipunek,Hugin: Inventaris,,Hugin: inventário,福金：背包,フギン：インベントリー,
@@ -1753,9 +1753,9 @@ Küçük kardeşim Munin'in dediğine göre <color=yellow>Ahşap ve Taş</color>
 
 Můj druhořadý bratr, Munin, mi říká že jeden může vyrobit Kamennou Sekeru ze <color=yellow>Dřeva a Kamene</color>.
 ","Ez a leltár és barkácsolási képernyő. Az új receptek akkor válnak elérhetővé, amikor az összes szükséges alapanyaggal rendelkezel hozzájuk.
- 
+
  Próbálj meg készíteni egy bunkósbotot némi fából, vagy egy kőbaltát fából és kőből!
- 
+
  Tipp: kovakövet a víz mellett találod.",,"To jest okno ekwipunku i tworzenia. Nowe przepisy będą odblokowane po zdobyciu odpowiednich przedmiotów do ich wytworzenia.
 
 Spróbuj wytworzyć maczugę z drewna lub topór z drewna i kamienia.
@@ -1764,9 +1764,9 @@ Porada: krzemień można znaleźć w pobliżu wody.","De meeste items zul je zel
 
 Mijn mindere broer Munin heeft me verteld dat je een stenen bijl kunt maken met <color=yellow>hout en steen</color>.",,"A maioria dos itens precisa ser fabricada. No entanto, devido à sua partida recente de Midgard, você terá que relembrar a verdadeira forma dos objetos. Basta pegar as coisas e tenho certeza de que logo sua memória voltará.
 
-Meu irmão menor, Munin, disse que você pode usar <color=yellow>madeira e pedra</color> para criar um machado de pedra.",大部分的物品都需要手工製作才能獲得。 但結合你剛剛離開人界的事實，你將會面臨必須要回憶起世間各種物品的真實形態。 不過只要你一直堅持拾取各種物品，你對世間萬物的記憶便會慢慢回來。 
+Meu irmão menor, Munin, disse que você pode usar <color=yellow>madeira e pedra</color> para criar um machado de pedra.",大部分的物品都需要手工製作才能獲得。 但結合你剛剛離開人界的事實，你將會面臨必須要回憶起世間各種物品的真實形態。 不過只要你一直堅持拾取各種物品，你對世間萬物的記憶便會慢慢回來。
 
-我弟弟霧尼曾經跟我說過，人們可以用<color=yellow>木材和石頭</color>.做成一把石斧。 ,"ほとんどの物は、作らなければ手に入らない。 しかしあなたはミズガルズから旅立ったばかり。 物の本當の形を思い出さなければならない。 何かを手に取れば、すぐに思い出すはずだ。 
+我弟弟霧尼曾經跟我說過，人們可以用<color=yellow>木材和石頭</color>.做成一把石斧。 ,"ほとんどの物は、作らなければ手に入らない。 しかしあなたはミズガルズから旅立ったばかり。 物の本當の形を思い出さなければならない。 何かを手に取れば、すぐに思い出すはずだ。
 
 弟のムニンの話では、<color=yellow>木と石</color>から石の斧を作れるということだ。 ",
 tutorial_weight_label,Hugin: Encumberance,,Hugin : Encombrement,,Hugin: Beladen,Hugin: Sobrecarga,Хугин: нагруженность,,,,Hugin: Kantotaakka,,,Hugin: Aşırı Yük,,Hugin: Přetížení,,,Hugin: Obciążenie,Hugin: Overbelast,,Hugin: sobrecarga,福金：超重,フギン：重量超過,
@@ -1792,9 +1792,9 @@ W takiej sytuacji najlepszym rozwiązaniem będzie znalezienie schronienia przy 
 
 Wanneer dit gebeurt, is beschutting zoeken bij een open vlam je beste optie.",,"Quando a temperatura cair à noite, ou se você tiver se molhado, vai passar frio, o que reduz sua regeneração de vigor.
 
-Procurar abrigo perto do fogo é o melhor a se fazer quando isso acontece.",當夜晚來臨溫度降低，或者你濕了，你會感覺到非常寒冷。 這會讓你的耐力值恢復速度變慢。 
+Procurar abrigo perto do fogo é o melhor a se fazer quando isso acontece.",當夜晚來臨溫度降低，或者你濕了，你會感覺到非常寒冷。 這會讓你的耐力值恢復速度變慢。
 
-找到靠近火源的庇護所是解決這個問題最好的辦法。 ,"夜に気溫が下がったり、身體が濡れたりすると、寒さに苦しむことになる。 するとスタミナの回復が遅くなる。 
+找到靠近火源的庇護所是解決這個問題最好的辦法。 ,"夜に気溫が下がったり、身體が濡れたりすると、寒さに苦しむことになる。 するとスタミナの回復が遅くなる。
 
 そのような時は、屋根のある場所で火のそばにいるのが一番だ。 ",
 tutorial_hunger_label,Hugin: Hunger,,Hugin : Faim,,Hugin: Hunger,Hugin: Hambre,Хугин: голод,,,,Hugin: Nälkä,,Huginn: Hungur,Hugin: Açlık,,Hugin: Hlad,,,Hugin: Głód,Hugin: Honger,,Hugin: fome,福金：饑餓,フギン：飢え,
@@ -1819,10 +1819,10 @@ Yiyecekleri dünyanın dört bir köşesinde bulabilir ve büyük bir çoğunlu�
 
 Voedsel kun je overal ter wereld vinden, en het overgrote deel ervan kan worden bereid met een <color=yellow>kookstation</color>.",,"Comer é <color=yellow>extremamente importante</color> para guerreiros vikings, mesmo após a morte. Uma barriga cheia aumenta sua vida e melhora seu vigor.
 
-É possível encontrar comida em qualquer lugar do mundo, e grande parte pode ser preparada em uma <color=yellow>bancada de cozinha</color>.",對於維京戰士來說，<color=yellow>最重要的事</color>就是幹飯，即使你已經轉世。 
-只有吃飽了才可以強化你的生命值和耐力值。 
+É possível encontrar comida em qualquer lugar do mundo, e grande parte pode ser preparada em uma <color=yellow>bancada de cozinha</color>.",對於維京戰士來說，<color=yellow>最重要的事</color>就是幹飯，即使你已經轉世。
+只有吃飽了才可以強化你的生命值和耐力值。
 
-在所有區域都可以找到食物，不過最好的辦法還是準備一個 <color=yellow>烹飪台</color>。 ,"たとえ死後であってさえ、バイキングの戦士にとって食べ物を摂ることは<color=yellow>非常に重要</color>だ。 満腹であれば體力が維持され、スタミナが向上する。 
+在所有區域都可以找到食物，不過最好的辦法還是準備一個 <color=yellow>烹飪台</color>。 ,"たとえ死後であってさえ、バイキングの戦士にとって食べ物を摂ることは<color=yellow>非常に重要</color>だ。 満腹であれば體力が維持され、スタミナが向上する。
 
 食べ物は世界のどこででも見つかる。 多くは<color=yellow>調理設備</color>で用意することができる。 ",
 tutorial_food_label,Hugin: Food,,Hugin : Nourriture,,Hugin: Essen,Hugin: Comida,Хугин: еда,,,,Hugin: Ruoka,,Huginn: Matur,Hugin: Yiyecek,,Hugin: Jídlo,,,Hugin: Żywność,Hugin: Voedsel,,Hugin: comida,福金：食物,フギン：食物,
@@ -1846,9 +1846,9 @@ Měj na paměti, že postupem času budeš hladovět, takže se pokus u sebe mí
 
 Wees je er wel van bewust dat je straks weer honger gaat hebben, dus zorg dat je altijd wat verschillende maaltijden klaar hebt staan.",,"Você encontrou um lanche, consuma-o para melhorar sua vida e vigor.
 
-Mas lembre-se que em breve você voltará a sentir fome, então tente ter algumas refeições diferentes sempre à disposição.",你發現了一種小吃，吃掉它會強化你的生命值和耐力值。 
+Mas lembre-se que em breve você voltará a sentir fome, então tente ter algumas refeições diferentes sempre à disposição.",你發現了一種小吃，吃掉它會強化你的生命值和耐力值。
 
-需要注意的是，你會定期感到饑餓，所以最好隨身攜帶幾種不同的食物哦。 ,"軽食を見つけたな。 それを食べて體力とスタミナを増やすのだ。 
+需要注意的是，你會定期感到饑餓，所以最好隨身攜帶幾種不同的食物哦。 ,"軽食を見つけたな。 それを食べて體力とスタミナを増やすのだ。
 
 それほど時間が経たないうちに、また空腹になるだろう。 常に、少なくとも二、三個、さまざまな種類の食物を手元に持っておくことだ。 ",
 tutorial_hammer_label,Hugin: Hammer,,Hugin : Marteau,,Hugin: Hammer,Hugin: Martillo,Хугин: молот,,,,Hugin: Vasara,,Huginn: Hamar,Hugin: Çekiç,,Hugin: Kladivo,,,Hugin: Młot,Hugin: Hamer,,Hugin: martelo,福金：工具錘,フギン：ハンマー,
@@ -1871,10 +1871,10 @@ Zacznij od skonstruowania <color=yellow>stołu warsztatowego,</color> co z kolei
 
 Begin met de bouw van een <color=yellow>werkbank</color>. Daarmee zul je weer andere dingen kunnen bouwen.",,"Com esta ferramenta, você poderá erigir saguões grandiosos e fortificações elevadas.
 
-Comece construindo uma <color=yellow>bancada</color>, que por sua vez permitirá erguer outras construções.",你可以用這把工具錘建造雄偉的大殿和堅固的堡壘。 
+Comece construindo uma <color=yellow>bancada</color>, que por sua vez permitirá erguer outras construções.",你可以用這把工具錘建造雄偉的大殿和堅固的堡壘。
 
-不過首先你需要製作一個<color=yellow>工作台</color>，這樣你才可以開始建造其他設施。 
-,"この道具があれば、広大な広間やそびえる要塞を作ることができよう。 
+不過首先你需要製作一個<color=yellow>工作台</color>，這樣你才可以開始建造其他設施。
+,"この道具があれば、広大な広間やそびえる要塞を作ることができよう。
 
 まず<color=yellow>作業台</color>を作るのだ。 これによって、他の物を作ることができる。 ",
 tutorial_hoe_label,Hugin: Hoe,,Hugin : Houe,,Hugin: Hacke,Hugin: Azada,Хугин: мотыга,,,,Hugin: Kuokka,,Huginn: Hlújárn,Hugin: Çapa,,Hugin: Motyka,,,Hugin: Motyka,Hugin: Schoffel,,Hugin: enxada,福金：鋤頭,フギン：鍬,
@@ -1899,9 +1899,9 @@ Używaj go do oczyszczania ziemi i manipulowania terenem. Łatwiej jest bowiem t
 
 Gebruikt het om de grond mee om te woelen en het terrein te manipuleren. Het is makkelijker bouwen op vlakke grond!",,"Esta ferramenta é usada para paisagismo, e é considerada o par perfeito do martelo.
 
-Use-a para limpar o solo e manipular o terreno. É mais fácil erguer construções em terreno plano!",這個工具可以用來改善地面環境，可以說是工具錘的最佳伴侶。 
+Use-a para limpar o solo e manipular o terreno. É mais fácil erguer construções em terreno plano!",這個工具可以用來改善地面環境，可以說是工具錘的最佳伴侶。
 
-它可以用作清理地面，和管理地貌。 在平坦的地面環境上建造房屋會更加容易。 ,"この道具は、地面に手を加えるために使うものだ。 ハンマーをうまく補助するものと言えるだろう。 
+它可以用作清理地面，和管理地貌。 在平坦的地面環境上建造房屋會更加容易。 ,"この道具は、地面に手を加えるために使うものだ。 ハンマーをうまく補助するものと言えるだろう。
 
 これを使って地面をならし、形を整えるといい。 平らな場所の方が建物を建てやすいからな！",
 tutorial_ore_label,Hugin: Ore,,Hugin : Minerai,,Hugin: Erz,Hugin: Mena,Хугин: руда,,,,Hugin: Malmi,,Huginn: Málmgrýti,Hugin: Maden,,Hugin: Ruda,,,Hugin: Ruda,Hugin: Erts,,Hugin: minério,福金：礦石,フギン：鉱石,
@@ -1924,9 +1924,9 @@ Aby skonstruować odlewnię, będą potrzebne ci <color=yellow>rdzenie surtlinga
 
 Voor de bouw van een smelterij heb je <color=yellow>surtlingkernen</color> nodig. Zoek ernaar in de donkere plekken onder de aarde.",,"Minério bruto precisa ser refinado na <color=yellow>fundição</color> antes de ser trabalhado na <color=yellow>forja</color>.
 
-Para construir uma fundição, também é necessário ter <color=yellow>minério de Surtling</color>. Procure por isso em locais escuros no subsolo.",原礦石需要經過 <color=yellow>冶煉爐r</color>的提純後才可以開始 <color=yellow>鍛造</color>。 
+Para construir uma fundição, também é necessário ter <color=yellow>minério de Surtling</color>. Procure por isso em locais escuros no subsolo.",原礦石需要經過 <color=yellow>冶煉爐r</color>的提純後才可以開始 <color=yellow>鍛造</color>。
 
-你需要 <color=yellow>焰靈之核</color>才可以建造冶煉爐。 去黑暗的地下城搜尋吧。 ,"鉱石の原石はまず<color=yellow>溶解爐</color>で製錬しないと、<color=yellow>鍛冶場</color>で扱えるようにならない。 
+你需要 <color=yellow>焰靈之核</color>才可以建造冶煉爐。 去黑暗的地下城搜尋吧。 ,"鉱石の原石はまず<color=yellow>溶解爐</color>で製錬しないと、<color=yellow>鍛冶場</color>で扱えるようにならない。
 
 溶解爐を作るには、<color=yellow>スルトリングの核</color>が必要だ。 地面の下の暗い場所で探すのだ。 ",
 tutorial_workbench_label,Hugin: Workbench,,Hugin : Table de fabrication,,Hugin: Werkbank,Hugin: Banco de trabajo,Хугин: верстак,,,,Hugin: Työpöytä,,Huginn: Vinnubekkur,Hugin: Tezgâh,,,,,Hugin: Stół warsztatowy,Hugin: Werkbank,,Hugin: bancada,福金：工作台,フギン：作業台,
@@ -1954,9 +1954,9 @@ Oczywiście musisz też zbudować jeden portal na drugim końcu, a następnie na
 
 Natuurlijk moet je er op die andere plek ook een bouwen en het paar dezelfde naam geven, dan zijn ze automatisch met elkaar verbonden!",,"Portais são ótimos para viajar rapidamente entre uma parte do mundo e outra.
 
-Claro, do outro lado também deve haver um portal, basta dar a eles o mesmo nome e estarão automaticamente conectados!",傳送門可以使你快速移動到世界的其他位置。 
+Claro, do outro lado também deve haver um portal, basta dar a eles o mesmo nome e estarão automaticamente conectados!",傳送門可以使你快速移動到世界的其他位置。
 
-當然了，你在另一端也必須要有一個傳送門才行，你只需要給兩個傳送門標上同樣的名字，這樣它們就會自動連接。 ,"ポータルがあると、世界のある場所と別の場所との間をすばやく移動できるようになる。 
+當然了，你在另一端也必須要有一個傳送門才行，你只需要給兩個傳送門標上同樣的名字，這樣它們就會自動連接。 ,"ポータルがあると、世界のある場所と別の場所との間をすばやく移動できるようになる。
 
 もちろん、もう一つの場所にも作らなければならない。 そうして両方に同じ名前を付けると、自動的に接続されるのだ！",
 tutorial_altar_label,Hugin: Forsaken altars,,Hugin : autels des Déchus,,Hugin: Wächteraltäre,Hugin: Altares de los Desterrados,Хугин: алтари павших,,,,Hugin: Hylättyjen Alttarit,,,Hugin: Yitik sunakları,,Hugin: Zapomenuté oltáře,,,Hugin: Ołtarze Zapomnianych,Hugin: Verlatenenaltaars,,Hugin: altares dos Guardiões,福金：被遺忘的祭壇,フギン：見捨てられしものの祭壇,
@@ -1979,9 +1979,9 @@ Uważaj jednak – Zapomnianych nie pokonasz łatwo. Zanim więc ruszysz do walk
 
 Wees echter voorzichtig, want de Verlatenen zijn geen makkelijke prooi. Maak dus eerst een stevig wapen, trek je beste bescherming aan en eet een stevige maaltijd voor je de strijd met hen aangaat.",,"Você encontrou o local de invocação de um dos Guardiões. Faça a oferenda correta e ele virá.
 
-Mas tenha cuidado, pois os Guardiões não são presas fáceis. Fabrique uma arma poderosa, coloque sua melhor armadura e coma uma refeição saudável antes de entrar em combate.",你找到了召喚被遺忘者的祭壇，在祭壇獻上正確的祭品他們便會出現。 
+Mas tenha cuidado, pois os Guardiões não são presas fáceis. Fabrique uma arma poderosa, coloque sua melhor armadura e coma uma refeição saudável antes de entrar em combate.",你找到了召喚被遺忘者的祭壇，在祭壇獻上正確的祭品他們便會出現。
 
-注意！被遺忘者們可不是輕易被降服的。 在戰鬥前你需要打造有威力的武器，穿上最堅固的護甲和好好大吃一頓，,"見捨てられしものの一つを召喚する場所を見つけたな。 祭壇に正しい供物を捧げると呼び出すことができる。 
+注意！被遺忘者們可不是輕易被降服的。 在戰鬥前你需要打造有威力的武器，穿上最堅固的護甲和好好大吃一頓，,"見捨てられしものの一つを召喚する場所を見つけたな。 祭壇に正しい供物を捧げると呼び出すことができる。
 
 ただし気をつけろ。 見捨てられしものはたやすく狩れる相手ではない。 戦いに望む前に、強い武器を作り、最上の防具を身に著け、栄養のあるものを食べておくのだ。 ",
 tutorial_crypt_label,Hugin: Dungeons,,Hugin : Donjons,,Hugin: Dungeons,Hugin: Mazmorras,Хугин: подземелье,,,,Hugin: Tyrmät,,Huginn: Dýflissur,Hugin: Zindanlar,,Hugin: Podzemí,,,Hugin: Lochy,Hugin: Kerkers,,Hugin: masmorras,福金：地下城,フギン：ダンジョン,
@@ -2004,9 +2004,9 @@ Nie zapomnij zabrać ze sobą źródła światła!","Onderaardse krochten en ker
 
 Denk er wel aan dat je een lichtbron meeneemt!",,"O 10º Mundo é cheio de profundezas e masmorras, monumentos antigas que costumam abarcar tesouros de civilizações perdidas.
 
-Lembre-se de trazer uma fonte de luz!",在第十大神界中可以找到地洞和地下城。 它們是過往的紀念碑，而且大多數的地洞和地下城都藏滿了早已遺失的文明和寶藏。 
+Lembre-se de trazer uma fonte de luz!",在第十大神界中可以找到地洞和地下城。 它們是過往的紀念碑，而且大多數的地洞和地下城都藏滿了早已遺失的文明和寶藏。
 
-請記得帶上光源！,"第10世界のあちこちに、洞穴やダンジョンがある。 それらは過去の遺物だ。 往々にして、長く失われた文明の富が多く殘されている。 
+請記得帶上光源！,"第10世界のあちこちに、洞穴やダンジョンがある。 それらは過去の遺物だ。 往々にして、長く失われた文明の富が多く殘されている。
 
 光源を持っていくことを忘れるな！",
 tutorial_pickaxe_label,Hugin: Pickaxe,,Hugin : Pioche,,Hugin: Spitzhacke,Hugin: Pico,Хугин: кирка,,,,Hugin: Hakku,,Huginn: Haki,Hugin: Kazma,,Hugin: Krumpáč,,,Hugin: Kilof,Hugin: Houweel,,Hugin: picareta,福金：鎬,フギン：つるはし,
@@ -2031,9 +2031,9 @@ A teraz idź dalej i zacznij przekopywać ziemię!","Het zwarte bos is rijk aan 
 
 Ga eropuit en sla je slag!",,"A Floresta Negra é rica em minérios, e lá você pode encontrar cobre no solo e estanho nos litorais.
 
-Agora vá e cave a terra!",黑暗林山有著充足的礦物資源，你可以在內陸上找到銅，在海岸邊找到錫。 
+Agora vá e cave a terra!",黑暗林山有著充足的礦物資源，你可以在內陸上找到銅，在海岸邊找到錫。
 
-現在快去開採吧！,"黒い森には多くの鉱物がある。 地面には銅があり、海岸ではスズの連なりがみつかるだろう。 
+現在快去開採吧！,"黒い森には多くの鉱物がある。 地面には銅があり、海岸ではスズの連なりがみつかるだろう。
 
 さあ、行って地面を掘るのだ！",
 tutorial_bosstrophy_label,Hugin: Forsaken trophy,,Hugin : trophée de Déchu,,Hugin: Wächter-Trophäe,Hugin: Trofeo de los Desterrados,Хугин: трофей павших,,,,Hugin: Hylätyn Pokaali,,,Hugin: Yitik avı ganimeti,,Hugin: Trofej Zapomenutých,,,Hugin: Trofeum Zapomnianych,Hugin: Verlatenentrofee,,Hugin: troféu dos Guardiões,福金：被遺忘者戰利品,フギン：見捨てられしもののトロフィー,
@@ -2061,9 +2061,9 @@ Drzemie w niej potężna magia, która zaprowadzi cię do rzeczy ukrytych pod zi
 
 Dit been bevat krachtige magie die je kan leiden naar dingen die in de aarde verborgen zitten. Het kan zilveraders ontdekken, maar je ook leiden naar begraven schatten…",,"Ao que parece, um dos muitos ossos que este ossuário vivo escondia na barriga era um ossinho da sorte.
 
-Este osso contém magia poderosa que guia você até coisas ocultas sob a terra. Ele pode localizar veios de prata, ou levar você a um tesouro enterrado…",貌似在他腹部藏著的許多骨頭里，其中有一塊願望骨。 
+Este osso contém magia poderosa que guia você até coisas ocultas sob a terra. Ele pode localizar veios de prata, ou levar você a um tesouro enterrado…",貌似在他腹部藏著的許多骨頭里，其中有一塊願望骨。
 
-這塊骨頭攜帶著強大的魔法，可以帶你找到許多隱秘的寶物。 它能定位銀礦源，也可能帶你找到被埋藏的寶藏...,"この生ける骨壷が腹に隠していた多くの骨の一本は叉骨だったようだ。 
+這塊骨頭攜帶著強大的魔法，可以帶你找到許多隱秘的寶物。 它能定位銀礦源，也可能帶你找到被埋藏的寶藏...,"この生ける骨壷が腹に隠していた多くの骨の一本は叉骨だったようだ。
 
 この骨には強力な魔法がかけられており、地中に隠されたものへと導いてくれる。 銀の鉱脈を探し當てることができるのだが、埋まった寶物が見つかるかもしれない...",
 tutorial_blackforest_label,Hugin: Black forest,,Hugin : Forêt noire,,Hugin: Schwarzwald,Hugin: Bosque negro,Хугин: Черный лес,,,,Hugin: Musta Metsä,,Huginn: Svartskógur,Hugin: Kara Orman,,Hugin: Černý les,,,Hugin: Czarny las,Hugin: Zwarte bos,,Hugin: Floresta Negra,福金：黑暗林山,フギン：黒い森,
@@ -2094,9 +2094,9 @@ będziesz potrzebować <color=yellow>węgla</color>, który można wytworzyć, b
 
 De smelterij gebruikt <color=yellow>kool</color> als brandstof, wat kan worden geproduceerd door het bouwen van een houtskoolbrander en daar hout in te steken.",,"Deposite minério bruto nesta fornalha para derreter todas as impurezas até que sobre apenas uma barra de metal refinado, que pode ser trabalhada na forja.
 
-Você vai precisar de <color=yellow>carvão</color> para abastecer a fundição. Para produzir carvão, construa um forno e encha com madeira.",將你的原礦石放進這台冶煉爐里，它會熔化里面所有的雜質，這樣你就能得到純凈的鋼材以鍛造。 
+Você vai precisar de <color=yellow>carvão</color> para abastecer a fundição. Para produzir carvão, construa um forno e encha com madeira.",將你的原礦石放進這台冶煉爐里，它會熔化里面所有的雜質，這樣你就能得到純凈的鋼材以鍛造。
 
-你會需要<color=yellow>木炭</color>來啟動冶煉爐，木炭的生產需要建造一個木炭窯並往里面添上木頭。 ,"鉱石の原石をこの爐に入れれば、すべての不純物が溶け出し、あとには精錬された金屬の塊だけが殘る。 これを鍛冶場で使うことができる。 
+你會需要<color=yellow>木炭</color>來啟動冶煉爐，木炭的生產需要建造一個木炭窯並往里面添上木頭。 ,"鉱石の原石をこの爐に入れれば、すべての不純物が溶け出し、あとには精錬された金屬の塊だけが殘る。 これを鍛冶場で使うことができる。
 
 溶解爐の燃料として<color=yellow>炭</color>が必要だ。 これは窯を作り、木を入れて作ることができる。 ",
 tutorial_bed_label,Hugin: Settling in,,Hugin : S'installer,,Hugin: Sich eingewöhnen,Hugin: Asentarse,Хугин: обустройство,,,,Hugin: Kotiutuminen,,Huginn: Koma sér fyrir,Hugin: Yerleşmek,,Hugin: Usazování,,,Hugin: Schronienie,Hugin: Maak het je gemakkelijk,,Hugin: repouso,福金：定居,フギン：住居,
@@ -2121,9 +2121,9 @@ Kolejnym ulepszeniem twojego domu mogą być skrzynie, w których przechowasz sw
 
 Je kunt je huis verder verbeteren door wat kisten te plaatsen waarin je items kunt opslaan. <color=yellow>Het is een goed idee om wat reserve-uitrusting te hebben</color>, voor het geval je tijdens je avonturen iets onfortuinlijks overkomt…",,"Passe a noite na cama para se recuperar e acordar com muito mais disposição.
 
-Outra melhoria em sua casa seriam baús para guardar objetos. <color=yellow>É uma boa ideia sempre ter equipamentos de sobra</color>, caso você sofra algum infortúnio durante suas explorações…",晚上好好的睡一覺，醒來時才能有滿滿的力量和振作的精神來迎接新一天的挑戰。 
+Outra melhoria em sua casa seriam baús para guardar objetos. <color=yellow>É uma boa ideia sempre ter equipamentos de sobra</color>, caso você sofra algum infortúnio durante suas explorações…",晚上好好的睡一覺，醒來時才能有滿滿的力量和振作的精神來迎接新一天的挑戰。
 
-有家的另一個好處就是，你可以製作一些可以保存物品的寶箱。 <color=yellow>你最好隨時都有一些備用的武器和裝備</color>，以備不時之需，比如你在探索時如果不幸出了什麽意外....,"ベッドで一晩眠れば、爽やかな気持ちで活力一杯の目覚めが迎えられる。 
+有家的另一個好處就是，你可以製作一些可以保存物品的寶箱。 <color=yellow>你最好隨時都有一些備用的武器和裝備</color>，以備不時之需，比如你在探索時如果不幸出了什麽意外....,"ベッドで一晩眠れば、爽やかな気持ちで活力一杯の目覚めが迎えられる。
 
 さらに、物を保管しておけるチェストをいくつか作れば家がより良い場所となる。 <color=yellow>裝備には、常に予備を持つようにしておくといいだろう</color>。 探索中に不幸に見舞われることもあろうし...",
 tutorial_randomevent_label,Hugin: Invasions,,Hugin : Invasions,,Hugin: Invasionen,Hugin: Invasiones,Хугин: вторжения,,,,Hugin: Tunkeutujat,,Huginn: Innrásir,Hugin: İstilalar,,Hugin: Invaze,,,Hugin: Najazdy,Hugin: Invasies,,Hugin: invasões,福金：侵略,フギン：侵略,
@@ -2263,7 +2263,7 @@ Quando Odin ouviu que seus inimigos estavam se recuperando, ele voltou sua aten�
 … em VALHEIM!",在很久很久以前，諸神之父奧丁統領著整個世界。 他打敗了所有的敵人並把他們拋入了第十大神界，然後把支撐這煉獄的巨木劈開，取了其中一塊變成了世界之樹，並讓它孤零零地留在了這被遺忘的放逐者之境...
 
 
-數百年以來，這個世界雖在沈睡，但實則躁動不安。 但是，它並沒有死去...一整個冰川世紀過去了，王朝興起又衰落，而諸神並不知曉。 
+數百年以來，這個世界雖在沈睡，但實則躁動不安。 但是，它並沒有死去...一整個冰川世紀過去了，王朝興起又衰落，而諸神並不知曉。
 
 
 當奧丁聽說他的敵人們正在重新生長，恢復力量，他派出了女武神們到人界為他找到最勇猛的戰士們。 他們在人界已經死去，而他們即將重生在...
@@ -2276,7 +2276,7 @@ Quando Odin ouviu que seus inimigos estavam se recuperando, ele voltou sua aten�
 
 
 
-何百年もの間、この世界は落ち著かぬ眠りを貪っていた。 しかし死んではいなかった... 氷河の時代が過ぎ、數々の王國が興り、また神々の視界から消えた。 
+何百年もの間、この世界は落ち著かぬ眠りを貪っていた。 しかし死んではいなかった... 氷河の時代が過ぎ、數々の王國が興り、また神々の視界から消えた。
 
 
 
@@ -2284,7 +2284,7 @@ Quando Odin ouviu que seus inimigos estavam se recuperando, ele voltou sua aten�
 
 
 
-...VALHEIMで！","오래전, 최고신 오딘은 세계를 통합했습니다. 오딘은 그의 적들을 쓰러뜨리고 열 번째 세계에 던져 넣었으며, 그리고 그들의 감옥을 세계수에 붙들어 두었던 가지들을 갈라버려, 그 망명지를 정처 없이 떠돌게 하였습니다... 
+...VALHEIMで！","오래전, 최고신 오딘은 세계를 통합했습니다. 오딘은 그의 적들을 쓰러뜨리고 열 번째 세계에 던져 넣었으며, 그리고 그들의 감옥을 세계수에 붙들어 두었던 가지들을 갈라버려, 그 망명지를 정처 없이 떠돌게 하였습니다...
 
 
 
@@ -2340,9 +2340,9 @@ Yürümemesi gereken bu varlık, gece çöktüğünde ayaklanır. Bunu okuyan ki
 Když duše vraha nebo kacíře hnije pod zemí, vytvoří cystu prázdnoty, která vtáhne kameny, dřevo a smůlu. Tento proces zformuje rašelinu v tělo, pletené rákosí v kosti a hadry jako kůži.
 
 Nemělo by to býti schopné chodit, ale jakmile příjde noc, chodí. Nechť proto ty, který čteš tyto řádky, třímájící meč v ruce, když tuto zrůdu potkáš učiň její konec. To, nebo můžeš tuto zrůdu zahnat pochodní, protože oheň je jedíné z čeho strach má.","Mindazok, akik engem olvasnak, óvakodjanak a szürketörpöktől, a sötétben settenkedőktől, a lélektelenektől! Rothadásból és esőcseppekből születnek, gombaként teremnek a füstölgő talajon. Nem rejtőzik semmi a nyelvükön vagy a szemeik mögött, és azok, akik semmitől sem rettegnek, féljenek tőlük!
- 
+
  Amikor egy gyilkos vagy hatalmas bűnős lelke a földben rothad, üreges cisztát alakít ki, mely követ, fát és mohát vonz magához. A tőzeget hússá gyúrja össze, a nádat csontokká szövi, a rongyokat pedig bőrnek veszi.
- 
+
  Nem szabadna járnia, de az éjjel eljöttével lábra kel. Ha ezt olvasod, és megpillantanál egyet, karddal a kezedben döfd át, és szabadítsd fel, vagy használj ellene fáklyát, mert fél a lángtól!",,"Niech wszyscy czytelnicy wystrzegają się mrocznych karłów – czatujących w ciemności, bezdusznych stworzeń. Rodzą się z rozkładu i kropel deszczowych, wyrastają jak grzyby z dymiącej gleby. Mają puste spojrzenia i nic nie mówią. Niezwyciężeni śmiałkowie niech nie skrywają strachu.
 
 Kiedy dusza mordercy lub wielkiego grzesznika gnije pod ziemią, tworzy pustą cystę przyciągającą do siebie kamień, drewno i mech. Ciało pochłania mech, trzcina wplata się w kości, a szmaty owijają skórę.
@@ -2359,13 +2359,13 @@ Não devia caminhar, mas quando cai a noite, caminha. Caso quem ler isto vir um 
 
 Quando a alma de um assassino ou de um grande pecador apodrecem sob o solo, ela produz um cisto oco que extrai rocha, madeira e musgo para si. Ela reúne a turfa e a transforma em carne, trança o junco para formar os ossos e de farrapos costura a pele.
 
-E aqueles que não deveriam percorrer o mundo se erguem na calada da noite. Quem os vir empunhando uma espada deverá golpeá-los e libertá-los, ou jogá-los ao fogo, pois temem as chamas.",你若聞此，小心灰矮人、黑暗潛伏者與失魂之靈。 此輩從腐爛和雨水中降生，如蘑菇般從煙氣土壤中破土而出。 其舌尖眼後毫無生氣，就連無所畏懼之人也會懼怕。 
+E aqueles que não deveriam percorrer o mundo se erguem na calada da noite. Quem os vir empunhando uma espada deverá golpeá-los e libertá-los, ou jogá-los ao fogo, pois temem as chamas.",你若聞此，小心灰矮人、黑暗潛伏者與失魂之靈。 此輩從腐爛和雨水中降生，如蘑菇般從煙氣土壤中破土而出。 其舌尖眼後毫無生氣，就連無所畏懼之人也會懼怕。
 
-當殺戮之人或極罪之人的靈魂在地下腐爛，便形成空洞的罅隙，吸入巖石、草木與苔蘚。 其以泥煤為肉，草木為骨，碎屑為皮。 
+當殺戮之人或極罪之人的靈魂在地下腐爛，便形成空洞的罅隙，吸入巖石、草木與苔蘚。 其以泥煤為肉，草木為骨，碎屑為皮。
 
-雖無法行走，但當夜幕降臨，亦能邁步。 你若聞此，應執劍在手，切開束縛，解放其身。 亦可火炬事之，因其懼怕火焰。 ,"我を読む者は皆、灰色ドワーフに気をつけよ、闇に潛む小人ども、魂なきかの者どもを。 奴らは腐った土と雨の中より生まれ、燻る土の中から茸のように生えてくる。 その舌の上にも両目の奧にも虛無のみがあり、恐れを知らぬ者もなお、奴らを恐れるべし。 
+雖無法行走，但當夜幕降臨，亦能邁步。 你若聞此，應執劍在手，切開束縛，解放其身。 亦可火炬事之，因其懼怕火焰。 ,"我を読む者は皆、灰色ドワーフに気をつけよ、闇に潛む小人ども、魂なきかの者どもを。 奴らは腐った土と雨の中より生まれ、燻る土の中から茸のように生えてくる。 その舌の上にも両目の奧にも虛無のみがあり、恐れを知らぬ者もなお、奴らを恐れるべし。
 
-人殺しや大罪人の魂が地の下にて腐ると、それは空ろな嚢胞を作り、石や木や苔を引き寄せる。 そして泥炭を集めてその肉とし、葦を編んで骨とし、ボロをまとって皮膚とするのだ。 
+人殺しや大罪人の魂が地の下にて腐ると、それは空ろな嚢胞を作り、石や木や苔を引き寄せる。 そして泥炭を集めてその肉とし、葦を編んで骨とし、ボロをまとって皮膚とするのだ。
 
 歩けざるものでありながら、夜來たれば奴らは歩く。 これを読む者よ、剣を帯びている時に奴らを見たなら、突き刺して亡き者とせよ。 もしくは松明を用いよ、奴らは火を恐れるがゆえに。 ","이 글을 읽는 모든 이들은 어둠 속에 도사린 영혼 없는 자들, 그레이드워프를 조심하라. 그들은 썩은 고기와 빗물에서 태어나 연기가 피어오르는 흙의 버섯처럼 번진다. 그들의 혓바닥 위와 눈 뒤에는 아무것도 없기 때문에, 그 무엇도 두려워하지 않는 이들이라고 그들은 두려워해야 한다.
 
@@ -2423,11 +2423,11 @@ Evvel zaman önce büyük iblis Surtr, sönmekte olan yankılarından ibaret old
 Ateşten yaratılan Surtr'un her parçası ateşti. 'Surtr'un beyni' veya 'Surtr'un ciğeri' diyebileceğimiz bir şey yoktu çünkü her parça Surtr'a aitti. Sözün özü, ateşten doğanın her parçası hâlâ Surtr'dı ama güç, düşünce ve anı olarak çok daha zayıftı ve tekrar bir bütün olamazdı.
 
 Bu parçalara Alaz diyoruz ve bu varlıklarla karşılaştığında, onları tıpkı ateşten artakalan közler misali söndürmeli veya alevlerini kökünden kurutmak için suya boğmalısın. Sana uzaktan ateş fırlatacak; kaos ve yıkımdan huzur bulacaklardır. Surtr, parçalanmış bu hâliyle bile İlk İnsanların çocuklarından intikam alma peşindedir.",,,"Te, aki engem olvasol, tudj a surtfattyakról, nehogy gonoszságuk áldozatává válj!
- 
-Réges-régen, a hatalmas démon, Surtr legyőzetett, és az Első emberek, a hatalmas harcosok, kiknek te csupán árnyéka vagy, elpusztították őt. Sokáig vagdalták ennek a Surtrnak a testét kardokkal és kalapácsokkal, így a tüzes anyaga számtalan apró darabra hullott szét. 
- 
-Ő, akit a tűz alkotott, minden porcikájában tűz volt. Nem mondhattad, hogy ez itt Surtr agya, vagy az ott a mája, mert minden darab maga Surtr volt. Tehát minden töredék továbbra is Surtr-t alkotta, csak sokkal gyengébb erővel, gondolatban és emlékekben, az újra eggyéválás bármilyen lehetősége nélkül. 
- 
+
+Réges-régen, a hatalmas démon, Surtr legyőzetett, és az Első emberek, a hatalmas harcosok, kiknek te csupán árnyéka vagy, elpusztították őt. Sokáig vagdalták ennek a Surtrnak a testét kardokkal és kalapácsokkal, így a tüzes anyaga számtalan apró darabra hullott szét.
+
+Ő, akit a tűz alkotott, minden porcikájában tűz volt. Nem mondhattad, hogy ez itt Surtr agya, vagy az ott a mája, mert minden darab maga Surtr volt. Tehát minden töredék továbbra is Surtr-t alkotta, csak sokkal gyengébb erővel, gondolatban és emlékekben, az újra eggyéválás bármilyen lehetősége nélkül.
+
 Ezeket a töredékeket nevezzük mi surtfattyaknak, és ha bárki rájuk bukkan, el kell őket taposni, mint a tűz utolsó parazsát, vagy vízzel leönteni, hogy gyökeresen kialudjon a lángjuk. Távolról tüzet hajítanak, és örömükre szolgál a rémület és a pusztítás. Ezen szétszórt gyengeségében is, a démon bosszúra szomjazik az Első emberek ellen.",,"Niech wszyscy czytelnicy dowiedzą się o surtlingach, aby nie padli ofiarą ich niegodziwości.
 
 Dawno temu gigantyczni wojownicy Pierwsi Ludzie – których jesteście jedynie słabnących echem – przywołali, a następnie pokonali wielkiego demona Surtra. Długo uderzali jego ciało mieczami i młotami, tak że jego ognista materia rozbiła się na wiele małych fragmentów.
@@ -2452,17 +2452,17 @@ Há muito tempo, o grande demônio Surtr foi derrotado e destruído pelos Primei
 
 Aquele que com fogo foi criado era também fogo em toda sua consistência. Não se podia dizer ""Eis o cérebro de Surtr"", ou ""Eis o fígado de Surtr"", pois cada pedaço era Surtr. Então todos os fragmentos dele assim permaneceram, como Surtr, apenas muito mais débeis em poder, em memória e em pensamento, impedidos de retornar como um só corpo.
 
-Agora, esses fragmentos são chamados de Surtlings, e quem os encontra deve apagá-los como brasa acesa ou mergulhá-los em água para afogar as chamas completamente. Eles cuspirão fogo à distância e terão prazer em disseminar o caos e o terror. Mesmo em sua senilidade dispersa, o demônio busca vingança sobre os filhos dos Primeiros Homens.",今將焰靈之事說與你聽，但你不可屈服於其邪惡。 
+Agora, esses fragmentos são chamados de Surtlings, e quem os encontra deve apagá-los como brasa acesa ou mergulhá-los em água para afogar as chamas completamente. Eles cuspirão fogo à distância e terão prazer em disseminar o caos e o terror. Mesmo em sua senilidade dispersa, o demônio busca vingança sobre os filhos dos Primeiros Homens.",今將焰靈之事說與你聽，但你不可屈服於其邪惡。
 
-古時惡魔薩特焰降臨，幸有先民將其降伏，此乃你輩之英雄，如今已默默無聞。 其以劍錘攻薩特之軀，烈火濺散，碎為小塊。 
+古時惡魔薩特焰降臨，幸有先民將其降伏，此乃你輩之英雄，如今已默默無聞。 其以劍錘攻薩特之軀，烈火濺散，碎為小塊。
 
-火焰之軀，寸寸皮肉皆為火。 或曰“此為薩特之腦”，又或“此為薩特之肝”，只因無一處不是薩特。 故其碎片仍是薩特，然其所思所想已不勝先前，亦無法再聚為一體。 
+火焰之軀，寸寸皮肉皆為火。 或曰“此為薩特之腦”，又或“此為薩特之肝”，只因無一處不是薩特。 故其碎片仍是薩特，然其所思所想已不勝先前，亦無法再聚為一體。
 
-如今碎片稱為薩特靈，即便尋得，也不過火之余燼，又或浸沒水中，其火根已滅。 其可遠處投火，最喜散布恐懼與毀滅。 縱然破碎泯滅，惡魔仍追尋先民子嗣，伺機覆仇。 ,"我を読む者は皆スルトリングについて知るべし、奴らの悪事の餌食とならざるべく。 
+如今碎片稱為薩特靈，即便尋得，也不過火之余燼，又或浸沒水中，其火根已滅。 其可遠處投火，最喜散布恐懼與毀滅。 縱然破碎泯滅，惡魔仍追尋先民子嗣，伺機覆仇。 ,"我を読む者は皆スルトリングについて知るべし、奴らの悪事の餌食とならざるべく。
 
-遙かな太古、「始まりの人」と呼ばれし民がいた。 お前たちは彼らの矮小なる寫し身に過ぎぬ。 その巨大なる戦士たちは大いなる魔物スルトを打ち倒して殺し、その身を剣と槌とで叩き続け、やがてスルトの炎の如き體は粉々に砕け、小さな破片となった。 
+遙かな太古、「始まりの人」と呼ばれし民がいた。 お前たちは彼らの矮小なる寫し身に過ぎぬ。 その巨大なる戦士たちは大いなる魔物スルトを打ち倒して殺し、その身を剣と槌とで叩き続け、やがてスルトの炎の如き體は粉々に砕け、小さな破片となった。
 
-火でできた彼の體はその身の全てが火である。 スルトはここが脳、ここが肝などと指差せるものにあらず、その身の全てがスルトなのである。 ゆえに砕けた破片の全てがなおもスルトなのだ、たとえその力と意志と記憶は総身に比べれば遙かに弱く、そして再び一にして完全になることは決してないとしても。 
+火でできた彼の體はその身の全てが火である。 スルトはここが脳、ここが肝などと指差せるものにあらず、その身の全てがスルトなのである。 ゆえに砕けた破片の全てがなおもスルトなのだ、たとえその力と意志と記憶は総身に比べれば遙かに弱く、そして再び一にして完全になることは決してないとしても。
 
 そして今、我らはこれらの斷片をスルトリングと呼んでおり、それらを見つけたならば燃えさしの如く踏み消すか、水をかけてその火を確実に消し去るべし。 奴ら遠くから火を放ち、恐怖と破壊を引き起こすことを楽しむ。 バラバラの破片になってもなお、かの魔物は始まりの人の子々孫々への復讐を求めているのだ。 ","이 글을 읽는 모든 이들은 수르트링에 관해 알아 두고 그들의 사악한 계략에 속지 말아라.
 
@@ -2521,11 +2521,11 @@ Bir savaşçı öldüğünde, ruhunun serbest kalıp toprağa karıştığını 
 Lakin kahramanlıklarıyla adını yüceltememiş bir kahraman ölürse ruhu ince ve hafif olacak, bacadan tüten duman misali yukarı doğru süzülecektir. Bu ruh kırıntıları bazen ağaç dallarına belli bir süre takılı kaldığında heyulalara, yani tek güdüleri öfke ve kıskançlık olan sefil gölgelere dönüşürler. Karamsarlık dolu hâlleriyle diyarda dolanan bu varlıklar, yalnızca yaşayanların peşindedirler.
 
 Bir heyulaya rastlayacak olursan onu öldür ve bunu merhametli bir hareket olarak düşün.",,,"Pihenj meg, utazó, és vedd fontolóra a kísérteteket!
- 
+
 Tudjuk, hogy amikor egy harcos meghal, a lelkük megtörik, és beszivárog a talajba körülöttük, ezáltal táplálva az új életet, és megerősítve azokat, akik őt követik.
- 
+
 Mégis, ha egy harcos hőstettek nélkül huny el, a lelke túl vékony és levegős marad. Felemelkedik, akár a kandalló füstje. Ezek a lélekfüstök néha elegendő ideig akadnak el a fák ágaiban, hogy kísértetté, a keserűség és irigység által hajtott, nyomorult árnyakká alakuljanak. Csak azért maradnak a kétségbeesés földjén sodródva, hogy a még élőkre vadásszanak.
- 
+
 Ha találkoznál eggyel, végezz vele, és gondolj rá úgy, hogy megkegyelmeztél neki!",,"Odpocznij, wędrowcze, i strzeż się zjaw.
 
 Wiadomo, że gdy wojownik umiera, jego dusza pęka i przenika do otaczającej go ziemi, aby w ten sposób nakarmić nowe życie i wzmocnić tych, którzy podążą za nim.
@@ -2550,17 +2550,17 @@ Sabemos que, quando um guerreiro morre, sua alma se parte em pedaços e invade a
 
 Entretanto, o guerreiro que morre desprovido de grandes feitos tem a alma tênue e leve por demais, e esta acaba por fazer o caminho contrário, elevando-se como fumaça. Esses fragmentos de almas às vezes se prendem nos galhos das árvores e transformam-se em espectros, sombras miseráveis movidas apenas pelo ódio e pela inveja. Sopradas pelo mundo em desespero, elas vivem apenas para se aproveitar dos vivos.
 
-Se por acaso vir alguma, mate-a em um ato de misericórdia.",流浪者，於此稍歇，再說幽靈。 
+Se por acaso vir alguma, mate-a em um ato de misericórdia.",流浪者，於此稍歇，再說幽靈。
 
-你我當知，戰士身死，靈魂應破碎滲入四周地底，以此滋養新生，激勵後來之人。 
+你我當知，戰士身死，靈魂應破碎滲入四周地底，以此滋養新生，激勵後來之人。
 
-但若戰士雖死，而無功績勇名，其靈魂則稀薄如空氣，冉冉直上，飄如爐中之煙。 此等靈魂時而掛樹，久而久之，形如幽靈魅影，空洞悲切，徒留苦痛妒忌。 其於絕望中飄動，亦只能糾纏生者。 
+但若戰士雖死，而無功績勇名，其靈魂則稀薄如空氣，冉冉直上，飄如爐中之煙。 此等靈魂時而掛樹，久而久之，形如幽靈魅影，空洞悲切，徒留苦痛妒忌。 其於絕望中飄動，亦只能糾纏生者。
 
-你若見之，應殺之，是為慈悲。 ,"一休みせよ旅人よ、そして死霊について考えよ。 
+你若見之，應殺之，是為慈悲。 ,"一休みせよ旅人よ、そして死霊について考えよ。
 
-知っての通り、戦士が死ぬとその魂は割れて周囲の土に染み込み、それが新たな命を育んで、後に続く者たちに力を與える。 
+知っての通り、戦士が死ぬとその魂は割れて周囲の土に染み込み、それが新たな命を育んで、後に続く者たちに力を與える。
 
-されど、然したる武勲も立てずに死んだ戦士の魂は空気のように軽く薄い。 それは土にしみ込むことなく、爐端の煙のごとく宙を漂う。 こういった魂が木の枝にしがみついたまま長く過ごすと、死霊となることがある――恨みと嫉妬だけしか持たない、慘めな影だ。 奴らは絶望のままにこの地を漂い、生きている者を餌食にしようとする。 
+されど、然したる武勲も立てずに死んだ戦士の魂は空気のように軽く薄い。 それは土にしみ込むことなく、爐端の煙のごとく宙を漂う。 こういった魂が木の枝にしがみついたまま長く過ごすと、死霊となることがある――恨みと嫉妬だけしか持たない、慘めな影だ。 奴らは絶望のままにこの地を漂い、生きている者を餌食にしようとする。
 
 死霊を見かけたら殺してやるがいい――それが慈悲というものだ。 ","방랑자여, 잠시 쉬며 망령에 대해 생각해 보아라.
 
@@ -2599,9 +2599,9 @@ Acabad con ellos y enterradlos. Recordadles que están muertos.","Давным-�
 Artık yüzlerce yıl derindeler. Şarkılar artık öykülerini anlatmıyor ve toprak da şehirlerini kalbinde barındırıyor. Tabii kibir dediğimiz şey tamamen yok olmadığı için o son savaşta yer alan savaşçılar, bedenleri küle çevrilip o kül de hiçliğe doğru savrulana kadar pes etmeyecekler. Yozlaşma ve karamsarlıktan olan ve kadim zırh kuşanan bu soysuz savaşçılar, Draugr olarak döndüler.
 
 Onları mağlup et, toprağa göm ve öldüklerini öğrenmelerini sağla.",,,"Réges-régen Valheim világa büszke és nemes nép fajának adott otthont. Hatalmas tornyokat építettek, melyek a felhőkig értek, és mélyen a földbe ástak az értékes fémekért. Azonban a büszkeség okozta a vesztüket. Szembeszálltak az istenekkel, és háborút indítottak az Aesir és Vanir ellen, ezzel teljesen elpusztítva önnön magukat. A nagy Odin a földdel tette egyenlővé a városaikat, Loki pedig tűzzel borította be a bányáikat. A hatalmas Thor ledöntötte a tornyaikat, és Freya sós könnyekkel hintette be a földjeiket.
- 
+
 Mostanra már több száz éves mélybe süllyedtek. Egyetlen dal sem szól a történeteikről, és a föld magának követelte a városaikat. A büszkeséget azonban nem lehetséges teljes egészében megölni, és a végső csatában harcolt harcosok nem adják meg magukat, amíg a testük porrá nem válik, és az a por már nincs többé. Draugrként, ősi páncélos, szentségtelen teremtményekként, a rozsda és kétségbeesés lényeiként térnek vissza.
- 
+
 Zúzd össze, és temesd el őket, tudasd velük, hogy meghaltak!",,"Dawno temu świat Valheim zamieszkiwały rasy dumnych i szlachetnych ludzi. Budowali sięgające chmur wieże i kopali głęboko pod ziemią w poszukiwaniu metali szlachetnych. Jednak ich duma doprowadziła ich do zguby. Rzucili wyzwanie samym bogom i wyruszyli na wojnę z Asami oraz Wanami, która zakończyła się ich sromotną porażką. Wielki Odyn zrównał z ziemią ich miasta, a za sprawą Lokiego ich kopalnie strawił ogień. Potężny Thor zburzył ich wieże, a Freja zasiała na ich polach słone łzy.
 
 Teraz zniknęli na setki lat. Nikt już nie śpiewa o ich wyczynach, a ziemia zagarnęła ich miasta. Dumy nie da się jednak całkiem stłamsić, a wojownicy walczący w ostatecznej bitwie nie poddadzą się, dopóki ich ciała nie obrócą się w proch, a kurz nie zniknie z pola walki. Wracają jako draugrowie – nieludzcy wędrowcy odziani w starożytne zbroje, stwory zrodzone z rdzy i rozpaczy.
@@ -2618,13 +2618,13 @@ Quebra-os, enterra-os, diz-lhes que estão mortos.","Há muitos e muitos anos, o
 
 Eles agora jazem mergulhados em profundezas inalcançáveis. Não há canções nem fados sobre eles, e a terra reivindicou aquelas tais cidades. Mas impossível é extinguir o orgulho, e os guerreiros que lutaram na batalha final não se renderão até que seus corpos virem pó, e que esse pó se esvaia por completo. Eles retornam como Draugr, andarilhos maculados em armaduras antigas, criaturas de ferrugem e desespero.
 
-Quebre-os, enterre-os, mostre a eles que pertencem à morte.",遙遠古時，瓦爾海姆居住著驕傲高貴的民族。 他們建起巨塔，高可入雲，下可入地掘金。 然而，驕傲導致失敗。 此輩挑戰眾神，宣戰阿薩神族與瓦尼爾，徹底自毀。 偉大奧丁夷平城市，洛基火燒礦脈。 強大索爾推倒高塔，芙蕾雅以鹹淚填其土地。 
+Quebre-os, enterre-os, mostre a eles que pertencem à morte.",遙遠古時，瓦爾海姆居住著驕傲高貴的民族。 他們建起巨塔，高可入雲，下可入地掘金。 然而，驕傲導致失敗。 此輩挑戰眾神，宣戰阿薩神族與瓦尼爾，徹底自毀。 偉大奧丁夷平城市，洛基火燒礦脈。 強大索爾推倒高塔，芙蕾雅以鹹淚填其土地。
 
-如今，此輩已沈淪地底數百世。 其事跡已無人歌頌，其城市已遭泥土覆滅。 然而驕傲無法徹底消滅，此輩奮起最終一戰，至死不降，直到身滅入土，隨土散盡。 此輩歸來乃是屍鬼，身披古甲的邪惡行者，在銹蝕中絕望的生靈。 
+如今，此輩已沈淪地底數百世。 其事跡已無人歌頌，其城市已遭泥土覆滅。 然而驕傲無法徹底消滅，此輩奮起最終一戰，至死不降，直到身滅入土，隨土散盡。 此輩歸來乃是屍鬼，身披古甲的邪惡行者，在銹蝕中絕望的生靈。
 
-毀之，葬之，使之安息。 ,"遙かな昔、Valheimの世界には高貴で誇り高き種族が住んでいた。 彼らは雲に屆くほど大きな建物を築き、貴金屬を求めて地の底深くまで掘り下げた。 だが、その高慢さが彼らを破滅させた。 彼らは神々に挑み、アース神族とヴァン神族の両方と戦爭して、完膚なきまでに滅ぼされた。 偉大なるオーディンは彼らの都市を破壊し、ロキは鉱山を焼き盡くした。 強きトールは彼らの建物を崩し、フレイアは彼らの畑に塩を蒔いた。 
+毀之，葬之，使之安息。 ,"遙かな昔、Valheimの世界には高貴で誇り高き種族が住んでいた。 彼らは雲に屆くほど大きな建物を築き、貴金屬を求めて地の底深くまで掘り下げた。 だが、その高慢さが彼らを破滅させた。 彼らは神々に挑み、アース神族とヴァン神族の両方と戦爭して、完膚なきまでに滅ぼされた。 偉大なるオーディンは彼らの都市を破壊し、ロキは鉱山を焼き盡くした。 強きトールは彼らの建物を崩し、フレイアは彼らの畑に塩を蒔いた。
 
-今や彼らは何百年も暗闇の底に沈んでいる。 彼らの物語を歌う歌はなく、大地は彼らの都市を覆い盡くした。 されど誇りを完全に殺すことはできず、かつて最後の戦いに挑んだ戦士たちは、體が塵となり、塵が消え去るまでは決して降伏しないだろう。 彼らはドラウグルとなって戻ってきた――古代の鎧を纏った不浄なる亡者、錆と絶望の怪物となって。 
+今や彼らは何百年も暗闇の底に沈んでいる。 彼らの物語を歌う歌はなく、大地は彼らの都市を覆い盡くした。 されど誇りを完全に殺すことはできず、かつて最後の戦いに挑んだ戦士たちは、體が塵となり、塵が消え去るまでは決して降伏しないだろう。 彼らはドラウグルとなって戻ってきた――古代の鎧を纏った不浄なる亡者、錆と絶望の怪物となって。
 
 打ち倒し、埋葬し、彼らが既に死人であることを思い知らせてやるべし。 ","오래전 발하임은 당당하고 고귀한 종족의 고향이었다. 그들은 거대한 탑을 건설하여 구름에 닿고, 땅속 깊은 곳으로 들어가 귀한 금속을 손에 넣었다. 하지만 그들의 오만이 파멸을 불러왔다. 그들은 신들에게 도전하여 에시르와 바니르에게 전쟁을 선포했고, 결국 모조리 몰살당하기에 이르렀다. 위대한 오딘은 그들의 도시를 붕괴시켰고, 로키는 광산을 불길로 뒤덮었다. 강대한 토르는 탑을 무너뜨렸고, 프레이야는 밭에 피눈물을 심었다.
 
@@ -2650,9 +2650,9 @@ Najpowszechniejszą formą jaszczurów są drakony – małe samce, które opiek
 
 De meest gebruikelijke vorm van deze worm zijn de kleine ijsdraken, de mannetjes die zorgen voor het nageslacht. Meestal zie je ze zitten bij rotsnesten, hun eieren bewakend. Daarentegen zijn de vrouwtjes veel groter en bieden een indrukwekkende aanblik, maar zijn een vicieuze vijand indien men ze nijdig maakt.",,"Aos que me leem, cuidado com as serpes de gelo, uma das criaturas mais antigas a surgir do corpo de Ymir.
 
-As serpes mais comuns são dracos, os pequenos machos que cuidam da prole. Na maioria das vezes, eles podem ser vistos pairando sobre ninhos rochosos protegendo os ovos. As fêmeas, por outro lado, são muito maiores e raras; quando irritadas, porém, tornam-se cruéis adversárias.",請你聆聽，從尤彌爾身體上幻化出的最古老的血脈之一：凜冬飛龍。 
+As serpes mais comuns são dracos, os pequenos machos que cuidam da prole. Na maioria das vezes, eles podem ser vistos pairando sobre ninhos rochosos protegendo os ovos. As fêmeas, por outro lado, são muito maiores e raras; quando irritadas, porém, tornam-se cruéis adversárias.",請你聆聽，從尤彌爾身體上幻化出的最古老的血脈之一：凜冬飛龍。
 
-霜龍是一種最常見的凜冬飛龍，霜龍多雄性育後。 他們通常會靜靜守護在龍蛋旁，而雌性通常體型較大，並且十分罕見，但如果被人發現，她們將會是極度危險的敵人。 ,"我を読む者は皆、霜の竜について、ユミルの肉體より出でし最も古代なる一族のものについて知るべし。 
+霜龍是一種最常見的凜冬飛龍，霜龍多雄性育後。 他們通常會靜靜守護在龍蛋旁，而雌性通常體型較大，並且十分罕見，但如果被人發現，她們將會是極度危險的敵人。 ,"我を読む者は皆、霜の竜について、ユミルの肉體より出でし最も古代なる一族のものについて知るべし。
 
 竜の最もありふれた形はドレイクである。 小型の雄で、子供の世話をする。 多くの場合、巖場に巣をかけ、卵を守る。 雌は非常に大きく、見かけることはまれであるが、いったん怒ると危険な敵となる。 ",
 lore_meadows_random01,"Where the grass grows underfoot
@@ -2720,10 +2720,10 @@ Gdy stąpają po ziemi, pomniejsze stworzenia podskakują jak okruchy na membran
 
 Waar hun voeten de aarde raken, springen mindere wezens op als kruimels op een trommelvel. Wie ze ziet, herkent ze.",,"Há muito tempo, quando Odin Pai de Todos uniu os mundos, ele derrotou os Vanir, os gigantes e as criaturas que eram mais antigas do que todas as outras. Os maiores deles não podiam ser mortos, mas foram renegados e banidos para cá, em Valheim, pela eternidade.
 
-Quando andam pela terra, as criaturas menores saltam como migalhas em um tambor. Você vai saber quando encontrá-los.",很久很久以前，當奧丁還統治者整個世界，他撒下了華納神族，他們中有巨人和最古老的生命。 那些最古老的生命不能被殺死，只能被遺棄並變成被遺忘者，他們被永遠地放逐到了瓦爾海姆。 
+Quando andam pela terra, as criaturas menores saltam como migalhas em um tambor. Você vai saber quando encontrá-los.",很久很久以前，當奧丁還統治者整個世界，他撒下了華納神族，他們中有巨人和最古老的生命。 那些最古老的生命不能被殺死，只能被遺棄並變成被遺忘者，他們被永遠地放逐到了瓦爾海姆。
 
 
-當它們踏上這片土地時，弱小的生物們會像鼓皮上的碎屑一樣震動。 你看到它們的時候你就知道了。 ,"はるか昔、最高神たるオーディンはすべての世界をまとめ、ヴァン神族、巨人、さらに彼らよりも古い者たちを倒した。 中でも偉大な者たちは殺すことができず、彼らは見捨てられしものとなり、Valheimに永久に追放された。 
+當它們踏上這片土地時，弱小的生物們會像鼓皮上的碎屑一樣震動。 你看到它們的時候你就知道了。 ,"はるか昔、最高神たるオーディンはすべての世界をまとめ、ヴァン神族、巨人、さらに彼らよりも古い者たちを倒した。 中でも偉大な者たちは殺すことができず、彼らは見捨てられしものとなり、Valheimに永久に追放された。
 
 彼らが地上を歩くと、卑しい生き物たちは太鼓の皮の上のごみくずのように飛び跳ねる。 見れば彼らとわかるであろう。 ",
 lore_meadows_random03,"Give thanks to Frey for the rain and sun
@@ -2838,7 +2838,7 @@ E pela força em seus braços",感恩弗雷帶來的雨滴和陽光
 竈の煙と溫かい毛皮
 
 そして汝の腕力",
-lore_meadows_random04,"Hold, traveller, and bear witness to my warning. We are many who have come before you, carried here by Odin's will to do his work. The path ahead is hard and the dangers great. If you hold your life dear, keep to these meadows and make your dwelling away from the trees. Fear the Horned One and spare his kin.\r",,"Halte, voyageur, et écoutez ma mise en garde. Nous sommes nombreux à être venus ici avant vous, guidés ici par Odin pour accomplir sa volonté. Le chemin qui vous attend est difficile et dangereux. Si vous tenez à vivre, restez dans ces champs et restez loin des arbres. Craignez le Cornu et épargnez les siens.",,"Halt, Reisender, höre meine Warnung. Du bist nicht der erste, der hier erschien. Viele sind dem Ruf Odins gefolgt. Doch der Weg, der vor dir liegt, ist hart und gefährlich. Wenn dir etwas an deinem Leben liegt, dann solltest du deine Behausung in diesen Auen, weit weg von den Bäumen errichten … Hüte dich vor dem Gehörnten und verschone die Seinen.","Detente, caminante, y sé testigo de mis advertencias. Somos muchos los que hemos pasado por aquí antes que tú, impulsados por el deseo de Odín de que hiciéramos su trabajo. El camino que te espera es arduo y tortuoso, al igual que los peligros que entraña. Si le tienes apego a la vida, haz de estas praderas tu morada y aléjate de los árboles. Teme al Astado y perdónales la vida a los suyos.","Постой, путник, и внемли моему предупреждению. Многие из нас пришли сюда раньше по воле Одина, дабы исполнить его приказ. Путь впереди труден, а опасности велики. Если дорожишь своей жизнью, ступай по этим лугам и держись подальше от деревьев. Остерегайся Рогатого и пощади его сородичей.",,,,,,,"Dur ve uyarıma kulak ver yolcu. Senden önce pek çoğumuz, Odin'in emriyle verdiği vazifeyi yerine getirmek üzere buraya getirildik. Önünde uzanan yol zorlu ve büyük tehlikelerle dolu. Canına kıymet veriyorsan, bu çayırlardan uzaklaşma ve yuvanı ağaçlardan uzakta bir yere kur. Boynuzlu'dan kork ve onun gibilerden sakın.",,,,,"Strzeż się, podróżniku, i daj świadectwo mojemu ostrzeżeniu. Wielu z nas przybyło przed tobą, by na rozkaz Odyna wypełnić jego wolę. Droga przed nami jest trudna, a niebezpieczeństwa czają się na każdym kroku. Jeśli życie ci miłe, trzymaj się tych łąk i szukaj schronienia z dala od drzew. Lękaj się Rogatego i oszczędź jego ród.","Wacht, reiziger, en luister naar mijn waarschuwing. Velen zijn je voorgegaan, hier gebracht door Odins wil om voor hem te arbeiden. Het pad voor je is zwaar en vol gevaren. Als je leven je lief is, blijf dan in deze weiden en bouw je verblijf ver van de bomen. Vrees de Gehoornde en spaar zijn verwanten.",,"Pare, viajante, e ouça o meu alerta. Fomos muitos os que viemos antes de você, aqui trazidos pela vontade de Odin. O caminho à frente é árduo e os perigos imponentes. Se você tem amor à preciosa vida, não se afaste destes prados e faça sua morada longe das árvores. Tema o Chifrudo e poupe a prole dele.",等等旅行者，請耐心聽完我的提醒。 我們是在你之前來到這片土地上的，奧丁把我們帶到了這里完成他的使命，你未來的道路艱難並危機重重。 如果你想遠離危險，請留在青青草原並在遠離樹林的地方修建居所。 
+lore_meadows_random04,"Hold, traveller, and bear witness to my warning. We are many who have come before you, carried here by Odin's will to do his work. The path ahead is hard and the dangers great. If you hold your life dear, keep to these meadows and make your dwelling away from the trees. Fear the Horned One and spare his kin.\r",,"Halte, voyageur, et écoutez ma mise en garde. Nous sommes nombreux à être venus ici avant vous, guidés ici par Odin pour accomplir sa volonté. Le chemin qui vous attend est difficile et dangereux. Si vous tenez à vivre, restez dans ces champs et restez loin des arbres. Craignez le Cornu et épargnez les siens.",,"Halt, Reisender, höre meine Warnung. Du bist nicht der erste, der hier erschien. Viele sind dem Ruf Odins gefolgt. Doch der Weg, der vor dir liegt, ist hart und gefährlich. Wenn dir etwas an deinem Leben liegt, dann solltest du deine Behausung in diesen Auen, weit weg von den Bäumen errichten … Hüte dich vor dem Gehörnten und verschone die Seinen.","Detente, caminante, y sé testigo de mis advertencias. Somos muchos los que hemos pasado por aquí antes que tú, impulsados por el deseo de Odín de que hiciéramos su trabajo. El camino que te espera es arduo y tortuoso, al igual que los peligros que entraña. Si le tienes apego a la vida, haz de estas praderas tu morada y aléjate de los árboles. Teme al Astado y perdónales la vida a los suyos.","Постой, путник, и внемли моему предупреждению. Многие из нас пришли сюда раньше по воле Одина, дабы исполнить его приказ. Путь впереди труден, а опасности велики. Если дорожишь своей жизнью, ступай по этим лугам и держись подальше от деревьев. Остерегайся Рогатого и пощади его сородичей.",,,,,,,"Dur ve uyarıma kulak ver yolcu. Senden önce pek çoğumuz, Odin'in emriyle verdiği vazifeyi yerine getirmek üzere buraya getirildik. Önünde uzanan yol zorlu ve büyük tehlikelerle dolu. Canına kıymet veriyorsan, bu çayırlardan uzaklaşma ve yuvanı ağaçlardan uzakta bir yere kur. Boynuzlu'dan kork ve onun gibilerden sakın.",,,,,"Strzeż się, podróżniku, i daj świadectwo mojemu ostrzeżeniu. Wielu z nas przybyło przed tobą, by na rozkaz Odyna wypełnić jego wolę. Droga przed nami jest trudna, a niebezpieczeństwa czają się na każdym kroku. Jeśli życie ci miłe, trzymaj się tych łąk i szukaj schronienia z dala od drzew. Lękaj się Rogatego i oszczędź jego ród.","Wacht, reiziger, en luister naar mijn waarschuwing. Velen zijn je voorgegaan, hier gebracht door Odins wil om voor hem te arbeiden. Het pad voor je is zwaar en vol gevaren. Als je leven je lief is, blijf dan in deze weiden en bouw je verblijf ver van de bomen. Vrees de Gehoornde en spaar zijn verwanten.",,"Pare, viajante, e ouça o meu alerta. Fomos muitos os que viemos antes de você, aqui trazidos pela vontade de Odin. O caminho à frente é árduo e os perigos imponentes. Se você tem amor à preciosa vida, não se afaste destes prados e faça sua morada longe das árvores. Tema o Chifrudo e poupe a prole dele.",等等旅行者，請耐心聽完我的提醒。 我們是在你之前來到這片土地上的，奧丁把我們帶到了這里完成他的使命，你未來的道路艱難並危機重重。 如果你想遠離危險，請留在青青草原並在遠離樹林的地方修建居所。
 
 要對有犄角的保持敬畏並放過它的血脈。 ,旅人よ、待て。 忠告に耳を傾けよ。 我らは汝の前に、オーディンによってその仕事をするために送り込まれた多くの者。 行く手の道は険しく、危険は大きい。 命を大事と思うなら、草原から離れず、家は木々より遠くに建てよ。 角あるものを恐れ、その一族を殺すべからず。 ,
 lore_meadows_random05,"Heed these words of Ulf, a poor settler in a strange land. You will find here good stone and wood, all you need to build a house. You will need to craft a roof to keep out the rain. Then you will need walls to stop the roof from falling down. Finally, you must have a door or it will be much harder to go in and out.
@@ -2859,10 +2859,10 @@ Tych rzeczy Ulf sam się nauczył. Teraz wyrył je na tym kamieniu, by pomóc in
 
 Dit heeft Ulf zelf geleerd. Nu schrijft hij het op deze steen om anderen te helpen. Bid tot Odin voor zijn ziel.",,"Atenção a estas palavras de Ulf, um pobre colono em uma terra estranha. Aqui você encontrará pedras e madeira de qualidade, tudo de que precisa para construir uma casa. Fabrique um telhado para se proteger da chuva. Depois, erga paredes para evitar que o telhado caia. Por fim, uma porta se fará necessária, ou entrar e sair será uma coisa penosa.
 
-Essas coisas Ulf aprendeu por conta própria, conhecimento que ele agora escreve nesta pedra para ajudar os outros. Ore a Odin por sua alma.",聽從烏爾夫的建議，一個在這片土地上生存過的定居者。 你會找到良好的石頭和木材，這是你修建一間房子的所有必需品。 你需要建造屋頂來遮風擋雨。 然後你需要建造木墻來支撐屋頂。 最後，你需要一扇門來放置別人輕易進出你的房子。 
+Essas coisas Ulf aprendeu por conta própria, conhecimento que ele agora escreve nesta pedra para ajudar os outros. Ore a Odin por sua alma.",聽從烏爾夫的建議，一個在這片土地上生存過的定居者。 你會找到良好的石頭和木材，這是你修建一間房子的所有必需品。 你需要建造屋頂來遮風擋雨。 然後你需要建造木墻來支撐屋頂。 最後，你需要一扇門來放置別人輕易進出你的房子。
 
 
-這是烏爾夫自己領悟到的，他把這些信息刻在了石碑上以幫助他人。 為奧丁的靈魂祈禱。 ,"異國の地のあわれな居住者ウルフの言葉に留意せよ。 ここでは良き石と木が手に入る。 家を建てればよいだけだ。 雨を避ける屋根を作れ。 屋根が崩れぬよう、壁を作れ。 最後にドアを作るのだ。 ないと出入りに苦労する。 
+這是烏爾夫自己領悟到的，他把這些信息刻在了石碑上以幫助他人。 為奧丁的靈魂祈禱。 ,"異國の地のあわれな居住者ウルフの言葉に留意せよ。 ここでは良き石と木が手に入る。 家を建てればよいだけだ。 雨を避ける屋根を作れ。 屋根が崩れぬよう、壁を作れ。 最後にドアを作るのだ。 ないと出入りに苦労する。
 
 ウルフはこれらを獨學で身につけた。 他の者たちの助けになるよう、この石に書いておく。 ウルフの魂のため、オーディンに祈りを。 ",
 lore_meadows_random06,"I was Astrid, a shieldmaiden of the forest. I know nothing of my life before I came here but my arm remembers the sword and my eyes see the course of the arrow. Now the raven guides me and I fight the great beasts in Odin's name.",,"J'étais Astrid, une guerrière de la forêt. Je ne sais rien de ma vie avant d'arriver ici, mais mon bras se rappelle mon épée, et mes yeux connaissent la trajectoire de la flèche. À présent, le corbeau me guide et j'affronte de féroces bêtes au nom d'Odin.",,"Ich war einst Astrid, Schildmaid des Waldes. Ich weiß nichts mehr über mein Leben, bevor ich hier erwachte … doch mein Arm erinnert sich des Schwertes und meine Augen erkennen den Flug von Pfeilen. Und nun leiten mich die Raben. Heute kämpfe ich in Odins Namen gegen Biester und Bestien.","Yo era Astrid, una doncella escudera del bosque. No sé cómo era mi vida antes de llegar aquí, pero estos brazos recuerdan la espada y estos ojos ven la trayectoria de las flechas. Ahora el cuervo me guía y lucho contra las bestias en nombre de Odín.","Меня звали Астрид, защитница леса. Я ничего не знаю о своей жизни до того, как попала сюда, но моя рука помнит меч, а мои глаза видят направление стрел. Теперь меня ведет ворон, и я сражаюсь с великими чудищами во имя Одина.",,,,,,,Ben ormanın kalkanlı kızlarından Astrid. Buraya gelmeden önceki hayatım hakkında hiçbir şey bilmesem de kolum kılıcı ve gözlerim ise okun çizdiği yolu hatırlıyor. Bana artık kuzgun rehberlik ediyor ve Odin'in şanı uğruna koca canavarlarla savaşıyorum.,,,,,"Byłam kiedyś Astrid, strażniczką lasu. Nie pamiętam nic o swoim życiu, zanim tu przybyłam, lecz moje ramię pamięta miecz, a oczy śledzą ruch strzały. Teraz prowadzi mnie kruk, a ja w imię Odyna walczę z ogromnymi bestiami.","Ik was Astrid, een schildmaagd van het bos. Van mijn leven voor ik hier kwam weet ik niets, maar mijn arm herinnert zich mijn zwaard, en mijn ogen kunnen een pijl volgen in vlucht. Nu leidt de raaf me en vecht ik tegen grote beesten in Odins naam.",,"Eu era Astrid, uma escudeira da floresta. Não sei nada da minha vida antes de chegar aqui, mas meu braço recorda-se da espada e meus olhos enxergam o caminho das flechas. Agora sigo o corvo e luto contra as terríveis feras em nome de Odin.",我曾是阿斯特麗德，一名護林女。 我不記得我來這里前的生活，但是我的手臂記得怎麽用劍，我的眼睛能看見箭的軌跡。 現在那只烏鴉是我的向導，而我，為了奧丁而戰。 ,私はアストリッド、森の楯の乙女であった。 ここに來る前のことは何も知らないが、この腕が剣を、目が矢の軌跡を覚えていた。 今は鴉に導かれ、オーディンの名において、大きな獣たちと戦っている。 ,
@@ -2884,10 +2884,10 @@ Uważaj też na przemierzające te ziemie dziki. Obawiają się ognia i ludzkieg
 
 Zoek ook naar de wilde zwijnen die dit land hun thuis noemen. Ze vrezen vuur en de mensenhand, maar kunnen leren gehoorzamen. Ga kalm op ze af en deel je voedsel met ze. Wortels uit de grond zijn een genot voor hen.",,"Esta terra é dura e agreste, mas nós que aqui estamos somos mais. Há conforto, viajante, nos presentes que aqui estão: boas madeiras e pedras, os frutos e as flores da floresta.
 
-Veja também os javalis que vagam por estas terras. Eles temem o fogo e a mão do homem, mas podem aprender a obedecê-los. Aproxime-se deles em silêncio e alimente-os do seu estoque. Raízes da terra, eis o que eles amam.",這片土地艱難而崎嶇，而我們比這片土地更加頑強。 大自然的饋贈照顧好你自己，旅行者，例如良好的石頭和木材，還有森林里的果實和鮮花。 
+Veja também os javalis que vagam por estas terras. Eles temem o fogo e a mão do homem, mas podem aprender a obedecê-los. Aproxime-se deles em silêncio e alimente-os do seu estoque. Raízes da terra, eis o que eles amam.",這片土地艱難而崎嶇，而我們比這片土地更加頑強。 大自然的饋贈照顧好你自己，旅行者，例如良好的石頭和木材，還有森林里的果實和鮮花。
 
-尋找遊蕩在各處的鬢豬。 它們怕火和拳頭但是你也可以用此馴服它們。 
-悄悄的接近它們並投喂你吃剩的食物。 它們最喜歡的是根莖類蔬果。 ,"この地は荒れ果て、過酷である。 しかしここにもたらされた者たちは不屈だ。 旅人よ、楽にせよ。 そこにあるのは贈り物、森の良い木と石、果物と花だ。 
+尋找遊蕩在各處的鬢豬。 它們怕火和拳頭但是你也可以用此馴服它們。
+悄悄的接近它們並投喂你吃剩的食物。 它們最喜歡的是根莖類蔬果。 ,"この地は荒れ果て、過酷である。 しかしここにもたらされた者たちは不屈だ。 旅人よ、楽にせよ。 そこにあるのは贈り物、森の良い木と石、果物と花だ。
 
 また、この地を歩く野生の豬を見よ。 彼らは火と人間の手を恐れるが、服従を教えることができる。 靜かに近づき、食べ物を與えよ。 植物の根が好物だ。 ",
 lore_blackforest_random01,"Beware the deep trees, beware the true dark. When the night comes, keep close to your fire.",,"Attention aux profondeurs de la forêt, prenez garde à la véritable obscurité. Quand la nuit tombe, restez près du feu.",,"Hüte dich vor den tiefen Bäumen und meide die wahre Dunkelheit. Wenn die Nacht hereinbricht, so halte dich nahe beim Feuer auf.",Cuidado con el espesor de los bosques y con la oscuridad profunda. Quédate junto al fuego cuando caiga la noche.,"Остерегайтесь лесных чащ, берегитесь истинной тьмы. Когда наступит ночь, держитесь поближе к огню.",,,,,,,"Derindeki ağaçlara, zifirî karanlığa dikkat et. Gece çöktüğünde, ateşine yakın dur.",,,,,"Strzeż się ukrytych w głębi drzew, strzeż się prawdziwej ciemności. Kiedy nadejdzie noc, trzymaj się blisko ognia.","Pas op de diepe bomen, pas op het ware duister. Blijf dicht bij je vuur als de nacht valt.",,"Cuidado com as árvores profundas, cuidado com a verdadeira escuridão. Quando cair a noite, não se afaste do fogo.",小心密林深處，小心正真的黑暗。 當夜晚來臨，你需要讓自己靠近火焰。 ,深い森と真の闇に気をつけよ。 夜が來たら火のそばを離れるな。 ,
@@ -3052,10 +3052,10 @@ Zabij Zapomnianych. Przywiąż do siebie ich głowy. A ja przybędę.","Deze ste
 
 Versla de Verlatenen. Keten hun hoofden. Dan kom ik.",,"Esta pedra foi colocada por mim, Astrid, no meu sétimo ano em Valheim. Neste local, o Pai de Todos falou comigo. Acordei de um sono profundo e encontrei as palavras dele espalhadas no chão ao redor, como pedras congeladas pelo frio profundo. Quando as aqueci em minhas mãos, elas descongelaram e entregaram sua mensagem, palavra por palavra.
 
-Mate os Guardiões. Acorrente suas cabeças. Eu virei.",這塊石碑是被我來瓦爾海姆的第七年放在這里的，我是阿斯特麗德。 諸神之父曾在這里和我對話。 我從長眠中醒來，發現留給我的話散落在我周圍的地面上，已經被凍得像鵝卵石。 當我用的雙手捧起它們，它們開始融化並一字一句地對我說出了奧丁留給我的話。 
+Mate os Guardiões. Acorrente suas cabeças. Eu virei.",這塊石碑是被我來瓦爾海姆的第七年放在這里的，我是阿斯特麗德。 諸神之父曾在這里和我對話。 我從長眠中醒來，發現留給我的話散落在我周圍的地面上，已經被凍得像鵝卵石。 當我用的雙手捧起它們，它們開始融化並一字一句地對我說出了奧丁留給我的話。
 
 
-擊殺被遺忘者們，用鎖鏈綁起他們的頭顱，我便會出現。 ,"この石は、Valheimに住みて七年目、私、アストリッドによって置かれたものである。 ここで最高神より言葉をたまわった。 深い眠りより目覚めると、まわりの地面に神の言葉が深い寒さによって凍りつき、小石となって散らばっていた。 それを手で溫めると、その言葉は溶け出し、ひとつひとつ、神の伝言となって語られた。 
+擊殺被遺忘者們，用鎖鏈綁起他們的頭顱，我便會出現。 ,"この石は、Valheimに住みて七年目、私、アストリッドによって置かれたものである。 ここで最高神より言葉をたまわった。 深い眠りより目覚めると、まわりの地面に神の言葉が深い寒さによって凍りつき、小石となって散らばっていた。 それを手で溫めると、その言葉は溶け出し、ひとつひとつ、神の伝言となって語られた。
 
 見捨てられしものを倒せ。 その頭に鎖をかけよ。 我は來たる。 ",
 lore_mountains_fenring,"Watch for him in moonlight
@@ -3158,9 +3158,9 @@ Morde com rapidez.",在月光中眺望他
 
 慢慢靠近
 
-瞬間咬殺,"彼の者、月のもとに現れぬ。 
+瞬間咬殺,"彼の者、月のもとに現れぬ。
 
-夜をさまよう者。 
+夜をさまよう者。
 
 足音は軽く
 
@@ -3289,21 +3289,21 @@ Na floresta densa, entreguei minha mão do escudo para o Velho da Floresta e rec
 
 Na encosta da montanha lutei com a Mãe Draco, que mordeu a minha perna na altura do joelho, e agora só consigo andar com o auxílio de um cajado.
 
-Minha última batalha deve estar próxima. Quando eu dormir desta vez, onde vou acordar?",摯友，把你的手放在這塊石碑上，記得我，哈拉爾德，我是刻這塊石碑的人。 我在人界的戰爭中犧牲了但是在瓦爾海姆我得到了重生。 但我的戰爭卻一刻也未停止。 
+Minha última batalha deve estar próxima. Quando eu dormir desta vez, onde vou acordar?",摯友，把你的手放在這塊石碑上，記得我，哈拉爾德，我是刻這塊石碑的人。 我在人界的戰爭中犧牲了但是在瓦爾海姆我得到了重生。 但我的戰爭卻一刻也未停止。
 
-我在青青草原與赤血靈鹿戰鬥過，在這場戰鬥中他用角戳瞎了我的一只眼睛。 
+我在青青草原與赤血靈鹿戰鬥過，在這場戰鬥中他用角戳瞎了我的一只眼睛。
 
-我在密林深處被森林里的長者截掉了拿盾的手臂，然後被一支屍鬼箭射中了胸骨頭，我到現在還能感到當時的疼痛。 
+我在密林深處被森林里的長者截掉了拿盾的手臂，然後被一支屍鬼箭射中了胸骨頭，我到現在還能感到當時的疼痛。
 
-我在雪山頂端挑戰過霜龍之母，她咬掉了我的一條小腿，而我現在必須杵著拐杖走路。 
+我在雪山頂端挑戰過霜龍之母，她咬掉了我的一條小腿，而我現在必須杵著拐杖走路。
 
-現在我的最後一戰即將到來，當我睡去以後，我會在何處醒來？,"良き友よ、この石に手を當て、これを彫ったハーラルを思い出せ。 ミズガルズの戦場で命を失ったが、Valheimで取り戻された。 しかしまだ戦いは終わっていない。 
+現在我的最後一戰即將到來，當我睡去以後，我會在何處醒來？,"良き友よ、この石に手を當て、これを彫ったハーラルを思い出せ。 ミズガルズの戦場で命を失ったが、Valheimで取り戻された。 しかしまだ戦いは終わっていない。
 
-緑の草原で大鹿エイクスュルと戦い、その角により片目を失った。 
+緑の草原で大鹿エイクスュルと戦い、その角により片目を失った。
 
-深い森の奧で、森の老人に盾持つ手を與え、あばらの下にドラウグルの矢を受けた。 その矢はまだ手で觸れることができる。 
+深い森の奧で、森の老人に盾持つ手を與え、あばらの下にドラウグルの矢を受けた。 その矢はまだ手で觸れることができる。
 
-山中で母なるドレイクと戦い、片腳の膝から下を食いちぎられた。 そのため杖がなくては歩けない。 
+山中で母なるドレイクと戦い、片腳の膝から下を食いちぎられた。 そのため杖がなくては歩けない。
 
 最後の戦いが近そうだ。 今度眠りについたら、どこで目覚めるのであろうか？",
 lore_plains_random06,"In my dream, Odin came to me as an old man leaning on a stick, a wide-brimmed traveller’s hat on his head. He told me to trust the ravens who carry his words under their tongues and to carve this stone that others might know his will. We must kill the Forsaken to find our places in his hall at Valhalla.",,"Odin m'est venu en rêve, sous la forme d'un vieil homme s'appuyant sur une canne, avec un grand chapeau à large bord sur la tête. Il m'a dit de faire confiance aux corbeaux qui s'expriment en son nom et de graver cette pierre pour que d'autres connaissent sa volonté. Nous devons tuer les Déchus pour gagner notre place au Valhalla.",,"In meinem Traum kam Odin zu mir. Verkleidet als ein alter Mann, der sich auf einen Stock stützte, mit einem breitkrempigen Hut auf dem Kopf. Er sagte mir, ich solle den Raben vertrauen, die seine Worte auf den Lippen tragen. Und ich solle diesen Stein meißeln, auf dass andere seinen Willen erkennen mögen. Wir müssen die Wächter töten, um uns unseren Platz in seinen Hallen in Walhalla zu verdienen.","En mi sueño, Odín se me apareció como un hombre que caminaba con bastón y que llevaba un sombrero de ala ancha. Me dijo que confiara en los cuervos que llevaban sus palabras y que grabara esta piedra para que otros supieran también su deseo. Tenemos que matar a los Desterrados si queremos encontrar nuestro sitio en el Valhalla.","Во сне Один пришел ко мне в облике старика в широкополой дорожной шляпе и с палкой. Он велел мне довериться воронам, которые несут его волю, и вырезать их слова на камне, чтобы другие смогли узнать о ней. Мы должны убить павших, чтобы обрести свое место в Вальгалле.",,,,,,,"Rüyamda Odin, elinde bastonla yürüyen ve geniş siperlikli şapka takan bir ihtiyar olarak bana geldi. Kelamını taşıyan kuzgunlara güvenmemi söyledi ve diğerlerinin de kudretini bilmesi için bu taşı oymamı istedi. Valhalla'daki salonunda yerimizi kazanmak için Yitikler'i öldürmeliyiz.",,,,,"Odyn odwiedził mnie w śnie jako starzec podparty laską z założonym na głowie kapeluszem podróżnika z szerokim rondem. Powiedział mi, bym zaufał krukom, które są posłańcami jego słów, i wyrył ten kamień, aby inni mogli poznać jego wolę. Musimy zabić Zapomnianych i znaleźć nasze przeznaczenie w jego komnacie w Walhalli.","In mijn droom werd ik bezocht door Odin, in de vorm van een oude man die leunde op een stok, een hoed met wijde rand op zijn hoofd. Hij vertelde me dat ik de raven moest vertrouwen die zijn woorden op hun tong dragen, en deze steen moest kerven zodat anderen zijn wil kunnen ontrafelen. We moeten de Verlatenen doden om onze plek te vinden in zijn hal in Walhalla.",,Recebi Odin em um sonho. Ele me veio como um velho de bengala que trajava um chapéu de aba larga. Ele me disse para confiar nos corvos que carregam suas palavras sob as línguas e esculpir esta pedra para que outros conheçam sua vontade. Devemos matar os Guardiões para sentar ao lado dele em Valhalla.,在我的夢里，奧丁垂垂老矣，他靠著一根拐杖，帶著一頂寬檐旅帽。 他告訴我要相信幫他傳遞信息的烏鴉，並刻下石碑讓世人他的意志。 我們必須擊殺被遺忘者才能獲取在瓦爾哈拉的一席之地。 ,夢にオーディンが現れた。 彼はつばの広い旅人の帽子をかぶり、杖によりかかる老人の姿であった。 彼は、その言葉を伝える鴉を信じ、彼の意思を他の者に伝えるよう、この石にそれを彫れと命じた。 ヴァルハラのオーディンの間に迎えられるためには、見捨てられしものを倒さねばならない。 ,
@@ -3595,9 +3595,9 @@ Budzisz się z okrzykiem wojennym na ustach…","Je loopt wederom aan het hoofd 
 
 Met een oorlogskreet op je lippen ontwaak je...",,"Uma vez mais, você corre na frente de seus guerreiros, o peso do machado de seu pai em suas mãos.
 
-Você acorda com o grito de guerra em seus lábios…",你又夢到了你踏著戰士們的頭顱前進，手里握著你父親的戰斧。 
+Você acorda com o grito de guerra em seus lábios…",你又夢到了你踏著戰士們的頭顱前進，手里握著你父親的戰斧。
 
-你在戰爭的吶喊中醒來...,"また、父の斧を手にして戦士たちを率いていた。 
+你在戰爭的吶喊中醒來...,"また、父の斧を手にして戦士たちを率いていた。
 
 目覚めた時、口にはときの聲の名殘が殘っていた...",
 dream_random03,"In your dream, you sit beside a fire in a great hall, surrounded by the chatter of familiar voices.
@@ -3618,9 +3618,9 @@ Ich twarze rozmazują się jak dym, a imiona ulatują z głowy, lecz ciepło ich
 
 Hun gezichten vervagen als rook, hun namen blijven je ontgaan, maar de warmte van hun herinnering blijft...",,"Em seu sonho, você se senta ao lado de uma lareira em um grande salão, o som de vozes familiares ecoando em seus ouvidos.
 
-Os rostos borram feito fumaça e os nomes escapam de sua mente, mas o calor das memórias permanece…",在你的夢里，你坐在一座燈火通明的宮殿里，周圍都是熟悉的人在笑談。 
+Os rostos borram feito fumaça e os nomes escapam de sua mente, mas o calor das memórias permanece…",在你的夢里，你坐在一座燈火通明的宮殿里，周圍都是熟悉的人在笑談。
 
-但是你卻看不清他們模糊的臉，你已經不記得他們的名字，但是那溫暖的氛圍卻久久縈繞心懷...,"夢の中で、大広間にたかれた火のそばに座っていた。 まわりでは懐かしい聲がおしゃべりをしている。 
+但是你卻看不清他們模糊的臉，你已經不記得他們的名字，但是那溫暖的氛圍卻久久縈繞心懷...,"夢の中で、大広間にたかれた火のそばに座っていた。 まわりでは懐かしい聲がおしゃべりをしている。
 
 彼らの顔は煙のようにぼやけ、彼らの名前は思い出せないが、その溫かい思い出だけが殘っている...",
 dream_random04,"You stand at the prow of a leaping ship, the salt spray before you and the joyful shriek of gulls above.
@@ -3641,12 +3641,12 @@ Pogrążony we śnie, pamiętasz, jak to było żyć w kraju ojczystym.","Je sta
 
 Verwikkeld in je droom herinner je je hoe het was om te leven in je geboorteland.",,"Você está na proa de um navio, a névoa salina à sua frente e o grito alegre das gaivotas acima.
 
-Em sonho, você recorda de como era viver na terra onde nasceu.",你站在船頭，波濤洶湧，鹹濕的海風迎面而來，海鷗在歡快地鳴叫。 
+Em sonho, você recorda de como era viver na terra onde nasceu.",你站在船頭，波濤洶湧，鹹濕的海風迎面而來，海鷗在歡快地鳴叫。
 
-在夢里，你回憶起了在你的故鄉活著的感覺。 ,"飛ぶように進む船の舳先に立っている。 前には海のしぶきがあり、頭上ではカモメが楽しげに鳴いている。 
+在夢里，你回憶起了在你的故鄉活著的感覺。 ,"飛ぶように進む船の舳先に立っている。 前には海のしぶきがあり、頭上ではカモメが楽しげに鳴いている。
 
 夢の中に包まれながら、故郷の地で生きる感觸を思い出す。 ",
-dream_random05,"You dream of a great tree reaching out through the night. One half of its branches crackle with flames, the others are green with leaves.",,"Vous rêvez d'un grand arbre qui s'étend dans la nuit. Des flammes font craquer la moitié de ses branches, tandis que l'autre moitié est couverte de feuilles vertes.",,"Du träumst von einem großen Baum, der die Nacht durchbricht und gen Himmel wächst. Die eine Hälfte seiner Äste steht in Flammen, die andere besitzt grüne Blätter.","Sueñas con un árbol que se extiende a través de la mismísima noche. La mitad de las ramas está ardiendo, mientras que la otra mitad está sana y tiene hojas esmeralda.","Вам снится огромное дерево, простирающееся сквозь ночь. Одна половина его ветвей объята пламенем, другая покрыта зелеными листьями.",,,,,,,"Rüyanda gece boyunca uzanan dev bir ağacı görüyorsun. Dallarının bir kısmı ateşler için çatırdarken, diğer yarısı da yemyeşil yaprakla bürülü bir hâlde.",,,,,"Śnisz o wielkim drzewie wyłaniającym się w nocy. Jedna połowa gałęzi trzeszczy w płomieniach, druga jest pełna zielonych liści.","Je droomt van een grote boom die door de nacht reikt. De ene helft van zijn takken branden, de andere helft is bedekt met groene bladeren.",,"Você sonha com uma grande árvore estendendo-se durante a noite. Metade dos galhos crepita com as chamas, os outros estão verdes e cheios de folhas.",你夢到了一顆參天大樹在黑夜里向你走來。 
+dream_random05,"You dream of a great tree reaching out through the night. One half of its branches crackle with flames, the others are green with leaves.",,"Vous rêvez d'un grand arbre qui s'étend dans la nuit. Des flammes font craquer la moitié de ses branches, tandis que l'autre moitié est couverte de feuilles vertes.",,"Du träumst von einem großen Baum, der die Nacht durchbricht und gen Himmel wächst. Die eine Hälfte seiner Äste steht in Flammen, die andere besitzt grüne Blätter.","Sueñas con un árbol que se extiende a través de la mismísima noche. La mitad de las ramas está ardiendo, mientras que la otra mitad está sana y tiene hojas esmeralda.","Вам снится огромное дерево, простирающееся сквозь ночь. Одна половина его ветвей объята пламенем, другая покрыта зелеными листьями.",,,,,,,"Rüyanda gece boyunca uzanan dev bir ağacı görüyorsun. Dallarının bir kısmı ateşler için çatırdarken, diğer yarısı da yemyeşil yaprakla bürülü bir hâlde.",,,,,"Śnisz o wielkim drzewie wyłaniającym się w nocy. Jedna połowa gałęzi trzeszczy w płomieniach, druga jest pełna zielonych liści.","Je droomt van een grote boom die door de nacht reikt. De ene helft van zijn takken branden, de andere helft is bedekt met groene bladeren.",,"Você sonha com uma grande árvore estendendo-se durante a noite. Metade dos galhos crepita com as chamas, os outros estão verdes e cheios de folhas.",你夢到了一顆參天大樹在黑夜里向你走來。
 它一半已經被火燒裂，而另一半卻生機盎然。 ,夜を突き抜けて伸びる大きな木の夢を見た。 その枝々の半數は音を立てて燃え、あとの半數は緑の葉を茂らせている。 ,
 dream_eikthyr01,"You dream of running through a meadow, the sky alight with pale fire. There is a thunder of hoofbeats behind you but when you turn, nothing is there.
 
@@ -3666,9 +3666,9 @@ Budzisz się z bijącym sercem w piersi.","Je droom dat je door een weide rent; 
 
 Met zwaar kloppend hart ontwaak je.",,"Você sonha em correr por uma campina, o céu iluminado com uma fogueira fraca. Cascos trovejam logo atrás, mas quando você se vira, não há nada lá.
 
-Você acorda com o coração batendo forte no peito.",你夢到你在青青草原上奔跑，天空中飄落微弱的火焰。 你聽到了如雷的踢聲，你猛然轉身，卻什麽都沒看見。 
+Você acorda com o coração batendo forte no peito.",你夢到你在青青草原上奔跑，天空中飄落微弱的火焰。 你聽到了如雷的踢聲，你猛然轉身，卻什麽都沒看見。
 
-你在自己砰砰的心跳中醒來。 ,"夢の中で、草原を走っている。 空はおぼろな火で明るくなっている。 背後から蹄の音の轟きが聞こえるが、振り向くと何もない。 
+你在自己砰砰的心跳中醒來。 ,"夢の中で、草原を走っている。 空はおぼろな火で明るくなっている。 背後から蹄の音の轟きが聞こえるが、振り向くと何もない。
 
 目を覚ますと胸の中で心臓が激しく打っている。 ",
 dream_elder01,"In your dream, the forest rises before you, dragging the trees upward like a cloak, its dark mass hiding the stars. At the mountain's peak, vast antlers frame the moon...",,"Dans votre rêve, des forêts se dressent devant vous, les arbres voilant les étoiles comme un manteau sombre. Au sommet de la montagne, d'immenses bois encadrent la lune...",,"In deinem Traum erhebt sich der Wald vor deinen Augen, der die Bäume wie einen Umhang nach oben zieht und mit seiner massigen Gestalt die Sterne bedeckt. Beim Gipfel des Berges wird der Mond von einem gewaltigen Geweih umrahmt …","En el sueño, el bosque se alza ante ti. Los árboles se yerguen hacia el cielo como si de una capa se trataran, cubriendo así las estrellas. En la cima de la montaña, una cornamenta rodea a la luna...","Вам снится лес. Его деревья поднимаются так высоко, что скрывают звезды, словно плащом. На вершине горы огромные рога обрамляют луну...",,,,,,,"Rüyanda orman önünde ayaklanıveriyor, ağaçları pelerin misali çekiyor ve karanlık kütlesi yıldızları perde çekiyor. Dağın zirvesindeki dev boynuzlar, Ay'ı çevreliyor.",,,,,"W śnie twoim oczom ukazuje się las, ciągnący drzewa w górę jak płaszcz, a jego ciemna masa ukrywa gwiazdy. Na szczycie góry rozległe poroże otacza księżyc…","In je droom zie je het bos voor je opstijgen en worden de bomen als een mantel omhoog getrokken, de donkere massa de sterren verhullend. Op de piek van de berg omsluit een groot gewei de maan…",,"Em seu sonho, a floresta surge à sua frente, arrastando as árvores para cima como um manto, sua massa sombria escondendo as estrelas. No pico da montanha, enormes chifres emolduram a lua…",在你的夢里，森林被一股無形之力像斗篷一樣被掀起，無盡的黑暗遮住了星星，天地渾濁。 在山頂上，犄角勾勒出了月亮的形狀...,夢の中で、森が眼前に立ち上がる。 木々はマントのように引きずり上げられ、その黒い塊が星を隠す。 山の頂では巨大な鹿の角が月を縁取っている...,
@@ -3691,9 +3691,9 @@ Kiedy obracasz się i dajesz nura w zimnym powietrzu, wielki kształt szybuje ob
 
 Terwijl je in de kou salto's vliegt en naar beneden duikt, zweeft een grote vorm je voorbij en blokkeert de zon. In de duisternis spreekt het tot je: ""zoek me"".",,"Você sonha que está voando sobre as montanhas, Valheim espalhada abaixo de você.
 
-Conforme você gira e mergulha no ar frio, uma grande forma ascende e bloqueia o sol. Na escuridão, você ouve: ""Me procure"".",你夢到你在雪山頂飛翔，俯瞰整個瓦爾海姆。 
+Conforme você gira e mergulha no ar frio, uma grande forma ascende e bloqueia o sol. Na escuridão, você ouve: ""Me procure"".",你夢到你在雪山頂飛翔，俯瞰整個瓦爾海姆。
 
-當你開始在冷風中徘徊，一個巨大的影子遮住了太陽。 它對你說：“找到我。 ”,"山々の頂きの上を飛んでいる夢を見る。 Valheimのすべてが眼下に広がっている。 
+當你開始在冷風中徘徊，一個巨大的影子遮住了太陽。 它對你說：“找到我。 ”,"山々の頂きの上を飛んでいる夢を見る。 Valheimのすべてが眼下に広がっている。
 
 身を翻して冷たい空気の中に飛び込むと、大きな影がかすめるように上昇し、日の光を遮る。 闇の中でそれが言う。 「私を探せ」",
 dream_yagluth01,"In a chamber hung with golden drapes, you kneel before the throne of a veiled king. ""Sleep is but a mask,"" he tells you, lifting the veil slowly.
@@ -3714,9 +3714,9 @@ Budzisz się z krzykiem.","In een kamer vol gouden wandtapijten kniel je voor de
 
 Schreeuwend ontwaak je.",,"Em uma câmara com cortinas douradas, você se ajoelha diante do trono, a face do rei encoberta por um véu. ""O sono é apenas uma máscara"", diz ele, erguendo o véu lentamente.
 
-Você acorda gritando.",在一個掛著金色窗簾的大廳里，你跪在一個蒙著面的國王座前。 “長眠不過只是我的面具。 ”他說道，並緩緩地掀開了他的面紗。 
+Você acorda gritando.",在一個掛著金色窗簾的大廳里，你跪在一個蒙著面的國王座前。 “長眠不過只是我的面具。 ”他說道，並緩緩地掀開了他的面紗。
 
-你在尖叫中醒來。 ,"黃金のとばりが降りている部屋の中で、ベールに覆われた王の玉座の前にひざまずいている。 「眠りは仮面に過ぎぬ」と彼はいい、ベールをゆっくりと持ち上げる。 
+你在尖叫中醒來。 ,"黃金のとばりが降りている部屋の中で、ベールに覆われた王の玉座の前にひざまずいている。 「眠りは仮面に過ぎぬ」と彼はいい、ベールをゆっくりと持ち上げる。
 
 悲鳴をあげて目を覚ます。 ",
 ,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3733,7 +3733,7 @@ npc_munin_general02,"Kraa! All eyes are on this one. Big eyes, little eyes, eyes
 npc_munin_general03,"Still you live, warrior? I had hoped for some little snack from your corpse, some morsel of carrion… Still, the Allfather will be pleased.",,"Vous êtes encore en vie, guerrier ? J'espérais grignoter vos restes, faire un festin de votre charogne... Ah, le Père de Toute Chose sera satisfait.",,"Du bist immer noch am Leben, Krieger? Ich hatte schon gehofft, ich könnte mich an deinem Leichnam laben … Wie auch immer, jedenfalls wird sich der Allvater freuen.","¿Sigues con vida? Yo que quería darme un pequeño festín de carroña con tu cadáver... En fin, el Padre Todopoderoso estará contento.","Смерть еще не добралась до тебя? А я-то надеялся полакомиться твоим трупом… Тем не менее, Всеотец будет доволен.",,,,,,"Þú lifir en, stríðsmaður? Ég var að vonast til að snarla á leifum þínum, smá biti af hræ... En, þú munt hafa áunnið þér heilli Alföðurs.","Hâlâ hayatta mısın savaşçı? Cesedinden leşe dönmüş ufak bir lokma alır atıştırmalık yaparım diyordum… Yine de bu durum, Tanrıbaba'nın hoşuna gidecek.",,,,,"Nadal żyjesz, wojowniku? Liczyłem na małą przekąskę z twojego ciała, kawałeczek padliny… Mimo to Wszechojciec będzie zadowolony.","Je leeft nog, krijger? Ik had gehoopt een hapje van je resten te mogen nemen, een stukje van je kadaver... Ach, de Alvader zal in ieder geval verheugd zijn.",,"Segue com vida, combatente? Eu esperava fazer um lanchinho do seu cadáver, talvez um pedaço de carniça… Enfim, o Pai de Todos ficará satisfeito.",勇士，你竟然還活著？我本來還想等你死後飽餐一頓呢，打個牙祭你懂的...好吧，諸神之父會滿意的。 ,戦士よ、まだ生きているのか？おまえの死體から少々の軽食をいただけるかと期待していたのだが。 一口の腐肉をな... いずれにしても、最高神は喜ぶであろう。 ,
 npc_munin_general04,"Are you lost in the fog, warrior? I see things your eyes once knew, paths you trod and faces you loved. Poor warrior…",,"Vous vous égarez dans le brouillard, guerrier ? Je vois des choses que vos yeux ont connues, des chemins que vous avez parcourus et des visages que vous avez aimés. Pauvre guerrier...",,"Hast du dich im Nebel verlaufen, Krieger? Ich sehe Dinge, die deine Augen einst kannten. Wege, die du beschritten und Gesichter, die du geliebt hast. Du arme Kriegerseele …","¿Te has perdido entre la niebla? Veo cosas que tus ojos conocían muy bien, los caminos que has recorrido e incluso las caras de tus seres queridos. Qué lástima das...","Ты потерялся в тумане, воин? Я вижу то, что когда-то видели твои глаза, пути, которыми ты шел, и лица, которые ты любил. Бедняга...",,,,,,"Ertu týndur í þokuni, stríðsmaður? Ég sé það sem þú eitt sinn þekktir, leiðir þú gekkst, andlit þú elskaðir. Vesalings stríðsmaður...","Sisin içinde kayıp mı oldun savaşçı? Bir zamanlar bildiğin şeyleri, yürüdüğün yolları ve sevdiğin yüzleri görüyorum. Zavallı şey…",,,,,"Nie potrafisz znaleźć drogi we mgle, wojowniku? Widzę rzeczy, które kiedyś ujrzały twe oczy, przebyte ścieżki i ukochane twarze. Biedny wojowniku…","Ben je verdwaald in de mist, krijger? Ik zie wat je ogen ooit wisten, de paden die je hebt bewandeld, en de gezichten die je ooit liefhad. Arme krijger...",,"Você se perdeu na névoa, combatente? Eu vejo coisas que seus olhos conheceram, caminhos que você trilhou e rostos que você amou. Pobre combatente…",勇士，你在迷霧中迷路了嗎？我可以看到你眼里的景象，你走過的路，你愛過的人。 太可憐了...,戦士よ、霧に迷ったか？見えるぞ。 おまえの目がかつて知っていたもの、おまえが歩いた道、愛した顔が。 哀れな戦士よ...,
 npc_munin_general05,"Kraa! Do not forget your quest, wanderer! Remember why the Allfather sent you here. The Forsaken Ones must be destroyed. Remember!",,"Croââ ! N'oubliez pas votre quête, aventurier ! N'oubliez pas pourquoi le Père de Toute Chose vous veut sur ce monde. Les Déchus doivent être détruits. Ne l'oubliez pas !",,"Krah! Vergiss nicht deine Aufgabe, Wanderer! Vergiss nicht, warum Odin dich hierher gesandt hat. Die Wächter müssen vernichtet werden. Vergiss das nicht!","¡Cro! ¡No te olvides de tu misión, caminante! Recuerda por qué te envió el Todo Poderoso. Debes destruir a los Desterrados. ¡No lo olvides!","Крра! Помни о своем задании, странник! Помни, почему Всеотец послал тебя сюда. Павшие должны быть уничтожены. Не забудь!",,,,,,"Krúnk! Ekki gleyma að þú átt verkefni óklárað, ferðalangi! Mundu afhverju Alfaðir senti þig hingað. Hinir yfirgefnu þurfa að deyja. Mundu það!",Kraa! Görevini unutma yolgezer! Tanrıbaba'nın seni buraya neden gönderdiğini hatırla. Yitikler yok edilmeli. Unutma!,,,,,"Kraa! Nie zapomnij o swojej misji, wędrowcze! Pamiętaj, dlaczego Wszechojciec cię tu przysłał. Porzuceni muszą zostać zgładzeni. Nie zapomnij o tym!","Kraa! Vergeet je queeste niet, krijger! Vergeet niet waarom de Alvader je hierheen gestuurd heeft. De Verlatenen moeten worden vernietigd. Vergeet dat niet!",,"Crá! Não se esqueça de sua missão, viajante! Lembre-se por que o Pai de Todos enviou você para cá. Os Guardiões devem ser destruídos. Lembre-se!",Kraa！別忘了你的任務，流浪者！記得你為什麽被諸神之父送來這里。 被遺忘者必須被摧毀。 切記！,クワァァ！使命を忘れるな、さすらい人！最高神になぜここに送られたか思い出せ。 見捨てられしものは倒されねばならぬ。 覚えておけ！,
-npc_munin_general06,"Ah, you have grown into a fine warrior! As a courtesy, I should tell you that when you die, we have agreed that Hugin will have your left eye as a treat and I will have your right. But we wish you well!",,"Ah, vous êtes digne qu'on vous appelle guerrier, à présent ! Je devrais vous informer, par politesse, que si vous mourez, Hugin mangera votre œil gauche et moi, le droit. Mais nous vous souhaitons bonne chance !",,"Du hast dich zu einem mächtigen Kämpfer entwickelt! Aus reiner Höflichkeit sollst du wissen - wenn du stirbst, wird Hugin dein linkes Auge fressen und ich dein rechtes. Aber wir wünschen dir dennoch alles Gute.","Te has vuelto muy fuerte, sí señor. Como muestra de cortesía, te haré saber que Hugin y yo hemos acordado que, cuando mueras, yo me quedaré tu ojo derecho y él el izquierdo. ¡Pero te deseamos lo mejor!","Ах, какой славный воин из тебя вышел! С радостью расскажу тебе о нашем с Хугином договоре. После твоей смерти он получит твой левый глаз в качестве угощения, а я — правый. Но мы желаем тебе удачи!",,,,,,"Þú hefur vaxið í myndarlegan stríðsmann! Sem kurteisi, þá ætti ég að tilkynna þér að þegar þú deyrð, mun Huginn fá vinstra augað þitt að borða og ég það hægra. En, við óskum þér góðs gengis!","Hah, iyi bir savaşçıya dönüşmüşsün! Nezaketen bir şeyi bilmeni istiyorum: Öldüğünde Hugin sol gözünü alacak ve ben de sağ gözünü. Yine de sana bol şans dileriz!",,,,,"Ach, ale z ciebie wspaniały wojownik! Z grzeczności powiem ci, że kiedy umrzesz, ustaliliśmy, że Hugin dostanie do schrupania twoje lewe oko, a ja prawe. Ale życzymy powodzenia!","Je bent een goede krijger geworden! Uit goed fatsoen moet ik je vertellen dat als je doodgaat, we het erover eens zijn dat Hugin je linkeroog mag hebben als tussendoortje, en ik je rechter. Maar we wensen je verder alle goeds!",,"Ah, que grande combatente você se tornou! Como cortesia, devo dizer que, quando você morrer, concordamos que Hugin terá seu olho esquerdo e eu, o direito. Mas desejamos tudo de bom!",哇，你成長成一名強壯了戰士了！不過其實出於禮貌，我應該在你死的時候才告訴你這個的，我和福金都商量好了，他吃你的左眼，我吃你的右眼。 
+npc_munin_general06,"Ah, you have grown into a fine warrior! As a courtesy, I should tell you that when you die, we have agreed that Hugin will have your left eye as a treat and I will have your right. But we wish you well!",,"Ah, vous êtes digne qu'on vous appelle guerrier, à présent ! Je devrais vous informer, par politesse, que si vous mourez, Hugin mangera votre œil gauche et moi, le droit. Mais nous vous souhaitons bonne chance !",,"Du hast dich zu einem mächtigen Kämpfer entwickelt! Aus reiner Höflichkeit sollst du wissen - wenn du stirbst, wird Hugin dein linkes Auge fressen und ich dein rechtes. Aber wir wünschen dir dennoch alles Gute.","Te has vuelto muy fuerte, sí señor. Como muestra de cortesía, te haré saber que Hugin y yo hemos acordado que, cuando mueras, yo me quedaré tu ojo derecho y él el izquierdo. ¡Pero te deseamos lo mejor!","Ах, какой славный воин из тебя вышел! С радостью расскажу тебе о нашем с Хугином договоре. После твоей смерти он получит твой левый глаз в качестве угощения, а я — правый. Но мы желаем тебе удачи!",,,,,,"Þú hefur vaxið í myndarlegan stríðsmann! Sem kurteisi, þá ætti ég að tilkynna þér að þegar þú deyrð, mun Huginn fá vinstra augað þitt að borða og ég það hægra. En, við óskum þér góðs gengis!","Hah, iyi bir savaşçıya dönüşmüşsün! Nezaketen bir şeyi bilmeni istiyorum: Öldüğünde Hugin sol gözünü alacak ve ben de sağ gözünü. Yine de sana bol şans dileriz!",,,,,"Ach, ale z ciebie wspaniały wojownik! Z grzeczności powiem ci, że kiedy umrzesz, ustaliliśmy, że Hugin dostanie do schrupania twoje lewe oko, a ja prawe. Ale życzymy powodzenia!","Je bent een goede krijger geworden! Uit goed fatsoen moet ik je vertellen dat als je doodgaat, we het erover eens zijn dat Hugin je linkeroog mag hebben als tussendoortje, en ik je rechter. Maar we wensen je verder alle goeds!",,"Ah, que grande combatente você se tornou! Como cortesia, devo dizer que, quando você morrer, concordamos que Hugin terá seu olho esquerdo e eu, o direito. Mas desejamos tudo de bom!",哇，你成長成一名強壯了戰士了！不過其實出於禮貌，我應該在你死的時候才告訴你這個的，我和福金都商量好了，他吃你的左眼，我吃你的右眼。
 嗯，祝安好！,おお、良い戦士になったものだ！禮儀として伝えておこう。 おまえが死んだ時のフギンとの取り決めだ。 フギンはおまえの左目を、我はおまえの右目をいただくことになっている。 だが無事を祈っているぞ！,
 npc_munin_general07,Kraa! Serve the Allfather well and he has given me leave to restore your memories. Do you remember the life you had before this one? It yet remembers you...,,"Croââ ! Servez le Père de Toute Chose comme il le faut et votre mémoire vous sera rendue. Vous rappelez-vous votre vie avant celle-ci ? Et pourtant, elle se souvient de vous...",,"Krah! Diene dem Allvater, so gut du kannst, und er wird mir erlauben, deine Erinnerungen wiederherzustellen. Erinnerst du dich an das Leben, das du vor diesem hier hattest? Zumindest erinnert es sich an dich …","¡Cro! Sirve bien al Padre Todopoderoso, pues me ha dado permiso para recuperarte la memoria. ¿Recuerdas la vida que tuviste antes de esta? Porque ella sí que te recuerda a ti...","Крра! Служи Всеотцу хорошо, и он позволит мне восстановить твои воспоминания. Помнишь ли ты мир, в котором жил до этого? А он тебя помнит...",,,,,,Krúnk! Þjónaðu Alföður vel og hann leyfir mér að endurvekja minningar þínar úr fyrra lífi. Mannstu eitthvað úr því? Það man eftir þér...,Kraa! Tanrıbaba'ya iyi hizmet edersen anılarını sana geri verebileceğimi söyledi. Bundan önceki hayatını hatırlıyor musun? O seni hatırlıyor...,,,,,"Kraa! Służ dobrze Wszechojcu, a on pozwoli mi przywrócić twoje wspomnienia. Czy pamiętasz swoje ówczesne życie? Ono jeszcze cię pamięta...","Kraa! Dien de Alvader goed, dan mag ik van hem je herinneringen teruggeven. Weet je nog wat voor leven je had voor je hier kwam? Het herinnert zich jou wel…",,Crá! Sirva bem o Pai de Todos e ele me deu permissão para restaurar suas memórias. Você se lembra da vida que teve antes dessa? Pois ela se lembra de você…,Kraa！奧丁對你很滿意，讓我來恢復你的記憶。 你還記得你的前世嗎？其實你的前世還記得你...,クワァァ！最高神によく仕えれば、おまえの記憶を取り戻してよいという許可を授かっておる。 今の前に送っていた人生を覚えているか？人生はおまえを覚えているぞ...,
 npc_munin_general08,"I had not thought you would survive so long… But guard against pride, friend. Battlefields are banquets to me, I know how all great warriors end...",,"Je ne pensais pas que vous survivriez aussi longtemps... Mais ne paradez pas. Les champs de bataille sont mes festins, je sais comment finissent tous les grands guerriers...",,"Ich hätte nicht gedacht, dass du so lange überleben würdest … Aber hüte dich vor deinem eigenen Stolz. Für mich sind Schlachtfelder nichts anderes als große Bankette: Ich weiß also, wie alle großen Krieger enden …","Jamás creí que fueras a sobrevivir tanto tiempo, pero no dejes que te consuma el orgullo. Los campos de batalla son mis banquetes personales, y sé de sobra cómo acaban los guerreros más poderosos...","Я не думал, что ты так долго проживешь... Но берегись гордыни, дружище. Поля сражений для меня — пир. Я знаю, как заканчивают все великие воины...",,,,,,"Ég hafði ekki hugsað mér að þú myndir lifa svona lengi... En verum ekki of stoltir, vinur. Stríðsvellir eru veisluhöld fyrir mér, ég veit hvernig öll líf góðra bardagamanna enda...",Bu kadar uzun süre hayatta kalabileceğini düşünmezdim… Lakin kibirden sakın dostum. Savaş meydanları benim şölen soframdır ve her büyük savaşçının sonunu bilirim...,,,,,"Nie sądziłem, że przeżyjesz tak długo… Ale strzeż się dumy, przyjacielu. Pola bitew są dla mnie ucztą. Wiem, jak kończą wszyscy śmiałkowie...","Ik had niet gedacht dat je nog in leven zou zijn… Maar hoed je voor trots, vriend. Slagvelden zijn mijn banket, en ik weet hoe alle grote krijgers aan hun eind komen…",,"Não pensei que você fosse sobreviver por tanto tempo… Mas não se deixe tomar pelo orgulho. Os campos de batalha são banquetes para mim, eu sei como todos os grandes guerreiros terminam…",我沒想到你竟然可以活這麽久....不過別太驕傲，朋友。 戰場對我來說就是宴席，我知道所有勇猛戰士的結局..,おまえがこれほど長く生きるとは思っていなかった... だが驕るな、友よ。 戦場は我には宴會の場。 偉大なる戦士がどのように斃れたかよく知っているぞ...,
@@ -3819,3 +3819,4 @@ language_slovak,Slovak,Slovakiska,Slovaque,,,,,,,,,,,,,Slovenština,Szlovák,,,,
 menu_joinip,Join IP,,,,,,,,,,,,,,,,,,,,,,直接 IP 連線,,
 enemy_blobelite,"Blob elite",,,,,,,,,,,,,,,,,,,,,,巨型軟泥怪,,
 enemy_blob,Blob,,,,,,,,,,,,,,,,,,,,,,軟泥怪,,
+piece_gate,Gate,,,,,,,,,,,,,,,,,,,,,,門,,
