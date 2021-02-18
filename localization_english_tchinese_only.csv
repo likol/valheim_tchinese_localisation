@@ -1244,12 +1244,12 @@ se_potion_tasty_tooltip,Lower health and stamina regeneration.,生命值和耐�
 se_healthpotionmedium_name,Health potion,治療藥水
 se_healthpotionminor_name,Minor health potion,微型治療藥水
 se_staminapotion_name,Stamina potion,耐力藥水
-se_rested_name,Rested,休息好了
+se_rested_name,Rested,充分休息
 se_rested_tooltip,"You feel rested, health and stamina regeneration is higher.",你感到充分休息，生命值和耐力值恢復速度加快。
 se_resting_name,Resting,休息中
 se_resting_tooltip,"You are currently resting, health and stamina regeneration is significantly higher.",你正在休息中，生命值和耐力值恢復速度大大加快。
-se_shelter_name,Shelter,庇護
-se_shelter_tooltip,You are sheltered from the weather.,你有庇護所，不會被天氣影響。
+se_shelter_name,Shelter,躲避處
+se_shelter_tooltip,You are sheltered from the weather.,有遮蔽，不被天氣所影響。
 se_spirit_name,Spirit,精神
 se_spirit_tooltip,Extra damage vs undead.,對鬼魂造成額外傷害。
 se_staminaupgrade_name,Stamina upgrade,耐力值升級
