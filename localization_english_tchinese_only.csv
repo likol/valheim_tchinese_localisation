@@ -29,7 +29,7 @@
 "menu_passwordshort","The password is too short","密碼太短"
 "menu_passwordinvalid","Invalid password","密碼無效"
 "menu_community","Community","社群"
-"menu_newworld","New World","新建世界"
+"menu_newworld","New World",新的世界
 "menu_seed","Seed","種子"
 "menu_entername","Enter Name","輸入名字"
 "menu_enterseed","Enter Seed","輸入種子"
@@ -317,7 +317,7 @@
 "msg_wontwork","That won't work","不起作用"
 "msg_itsfull","It's full","滿了"
 "msg_wrongitem","Wrong item","錯誤物品"
-"msg_donthaveany","You don't have any","你没有："
+"msg_donthaveany","You don't have any",你身上沒有
 "msg_newtrophy","Trophy collected","已收集戰利品"
 "msg_newitem","New item","新物品"
 "msg_newmaterial","New material","新材料"
@@ -354,10 +354,10 @@
 "msg_pvpoff","PVP-damage disabled","已關閉PVP傷害"
 "msg_inuse","Someone else is using it","有人正在使用"
 "msg_broke","$1 broke","$1 已損壞"
-"msg_fishing_hooked","Hooked","勾住了"
+"msg_fishing_hooked","Hooked",上鉤了
 "msg_fishing_linebroke","Line broke","線已損壞"
-"msg_fishing_catched","Caught","鈎住"
-"msg_fishing_lost","Lost catch","脫鉤"
+"msg_fishing_catched","Caught",抓住了
+"msg_fishing_lost","Lost catch",錯失機會
 "msg_dlcrequired","DLC required","需要DLC"
 ,,
 ,,
@@ -409,8 +409,8 @@
 "piece_guardstone_inactive","Inactive","未啟動"
 "piece_guardstone_owner","Owner","主人"
 "piece_guardstone_additional","Permitted","允許的"
-"piece_guardstone_add","Opt-in","加入區域"
-"piece_guardstone_remove","Opt-out","離開區域"
+"piece_guardstone_add","Opt-in",加入
+"piece_guardstone_remove","Opt-out",退出
 "piece_guardstone_deactivate","Deactivate","停止作用"
 "piece_guardstone_activate","Activate","作用中"
 "piece_sign_input","Enter text","輸入文字"
@@ -1592,7 +1592,7 @@
 "guardianstone_trophyplaced","Forsaken sacrificed","已獻祭給被遺忘者"
 ,,
 ,,
-"npc_haldor_greeting01","Humph! Another scrap of flesh from the Valkyries...","哼！瓦爾麗基的另一塊碎肉"
+"npc_haldor_greeting01","Humph! Another scrap of flesh from the Valkyries...","哼！另一塊瓦爾基麗的碎肉"
 "npc_haldor_greeting02","Well?","行吧？"
 "npc_haldor_greeting03","What do you want?","你想幹嘛？"
 "npc_haldor_goodbye01","Try not to wander too far. I want your things when you get killed.","試著別溜達得太遠。當你被殺死時我想要你身上的東西。"
