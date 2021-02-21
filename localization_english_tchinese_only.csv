@@ -61,7 +61,7 @@
 "feedback_subject","Subject","主題"
 "feedback_text","Write something","寫點什麼吧"
 "feedback_send","Send","發送"
-"feedback_bug","Bug","Bug"
+"feedback_bug","Bug","臭蟲"
 "feedback_feedback","Feedback","回饋"
 "feedback_idea","Idea","想法"
 ,,
@@ -289,7 +289,7 @@
 "msg_broke_OLD","broke","已破壞"
 "msg_outof","You are out of","你用光了"
 "msg_cantpickup","You can't pick that up","你無法撿起該物品"
-"msg_noroom","No room in inventory","背包沒有空格"
+"msg_noroom","No room in inventory","背包沒有空間"
 "msg_cantdrop","You can't drop that","你無法丟棄該物品"
 "msg_dropped","Dropped","已丟棄"
 "msg_cantuseon","You can't use $1 on $2","無法在 $2 上使用 $1"
