@@ -1,3 +1,4 @@
+,English,Chinese_Traditional
 "//  COLOR KEY:\n// GREEN is READY FOR TRANSLATION\n// YELLOW is IN PROGRESS, DON'T TRANSLATE\n// RED is UNUSED, DON'T TRANSLATE\n//PURPLE NEEDS UPDATE (pls change to blue after update)\n//BLUE is UPDATED TEXTS",,
 "menu_startgame","Start Game","開始遊戲"
 "menu_joingame","Join Game","加入遊戲"
@@ -1677,9 +1678,10 @@
 "language_ukrainian","українська мова*",
 "language_portuguese_european","Português europeu*",
 "language_portuguese_brazilian","Português (Brasil)",
-"language_chinese","正體中文",
+"language_chinese","简体中文",
 "language_japanese","日本語",
 "language_korean","한국어 (불완전한)",
+"language_chinese_traditional","正體中文*",
 ,,
 ,,
 "//NEW STUFF BELOW",,
