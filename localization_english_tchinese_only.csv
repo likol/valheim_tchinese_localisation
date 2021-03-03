@@ -820,6 +820,7 @@ Context,English,Chinese_Traditional
 "language_georgian","Georgian*",
 "language_german","Deutsch",
 "language_greek","Ελληνικά*",
+"language_hindi","हिन्दी*",
 "language_hungarian","Magyar*",
 "language_icelandic","íslenska*",
 "language_italian","Italiano*",
@@ -933,6 +934,7 @@ Context,English,Chinese_Traditional
 "menu_community","Community","社群"
 "menu_communityserver","Community Server","社群伺服器"
 "menu_connect","Connect","連接"
+"menu_connecting","Connecting","連接中"
 "menu_credits","Credits","致謝名單"
 "menu_done","Done","完成"
 "menu_entername","Enter Name","輸入名字"
